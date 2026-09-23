@@ -1,5 +1,7 @@
 # SCI-reviewer
 
+> **새 검수 대화에서는 가장 먼저 [`START_HERE.md`](START_HERE.md)를 읽는다. 사용자는 긴 검수 지시를 반복할 필요가 없다.**
+
 SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적으로 지적한 실패 패턴을 일반화하여 보존하는 연구 글쓰기·리비전 QA 규칙 저장소입니다.
 
 ## 목적
@@ -18,18 +20,21 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 
 ## 권위 순서
 
-1. `rules/00_CORE_REVIEWER_RULES.md`
-2. `rules/01_ARGUMENT_ARCHITECTURE.md`
-3. `rules/02_READER_FIRST_TERMINOLOGY.md`
-4. `rules/03_METHODS_CLARITY_AND_REPLICABILITY.md`
-5. `rules/04_ANALYSIS_HIERARCHY.md`
-6. `rules/05_DEFENSIVE_WRITING_AND_REVISION_TRACE.md`
-7. `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md`
-8. `rules/07_SECTION_DEPTH_AND_WORD_BUDGET.md`
-9. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
-10. `checklists/NAIVE_READER_TEST.md`
-11. `checklists/FIELD_BENCHMARK_AUDIT.md`
-12. `cases/CASE_INDEX.md`
+1. `START_HERE.md`
+2. `REVIEW_PROTOCOL.md`
+3. `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.4.md`
+4. `rules/00_CORE_REVIEWER_RULES.md`
+5. `rules/01_ARGUMENT_ARCHITECTURE.md`
+6. `rules/02_READER_FIRST_TERMINOLOGY.md`
+7. `rules/03_METHODS_CLARITY_AND_REPLICABILITY.md`
+8. `rules/04_ANALYSIS_HIERARCHY.md`
+9. `rules/05_DEFENSIVE_WRITING_AND_REVISION_TRACE.md`
+10. `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md`
+11. `rules/07_SECTION_DEPTH_AND_WORD_BUDGET.md`
+12. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
+13. `checklists/NAIVE_READER_TEST.md`
+14. `checklists/FIELD_BENCHMARK_AUDIT.md`
+15. `cases/CASE_INDEX.md`
 
 ## 최종 제출 판정
 
@@ -50,4 +55,4 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 
 이 저장소는 Public입니다. 따라서 미출판 원고 전문, 비공개 reviewer/editor correspondence, 계정정보 또는 개인정보가 포함된 원문은 커밋하지 않습니다. 실제 사례는 `cases/`에 일반화된 public-safe case record로 보존합니다. 원문이 필요한 검수에서는 사용자가 제공한 private Project/Conversation source를 별도로 대조합니다.
 
-Version: v0.4
+Version: v0.4.1
