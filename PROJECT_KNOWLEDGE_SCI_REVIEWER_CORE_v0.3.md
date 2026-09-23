@@ -1,0 +1,23 @@
+# PROJECT KNOWLEDGE — SCI Reviewer Core v0.3
+
+1. 한 논문은 하나의 중심 기여를 가진다. 기여는 새 분석을 했다는 사실이 아니라 기존 지식/측정/실무의 무엇이 달라지는가로 쓴다.
+2. Title → Abstract → Introduction gap → RQ/H → primary analysis → Results → Discussion/Conclusion은 같은 중심을 가리켜야 한다.
+3. Primary / secondary / exploratory는 라벨이 아니라 글의 비중으로 증명한다. Supplement 분석에 formal hypothesis를 부여하지 않는다.
+4. Introduction 각 문단은 Problem / Evidence / Gap / Theory / Aim 중 하나의 기능을 갖고, 문단 간 연결을 독자가 추론하게 두지 않는다.
+5. 내부 분석언어를 독자언어로 자동 승격하지 않는다. 자체 용어는 평문 설명 뒤에 붙인다.
+6. Methods는 원자료 → 관측단위 → 포함/제외 → 중복처리 → 최종 표본 → 변수/분류 → primary 분석 순서로 쓴다.
+7. 복잡한 규칙에는 실제 예시를 두고, 국내 DB·법적 절차·행정단위는 국제 독자를 위해 설명한다.
+8. Results는 표의 기술 라벨을 평문으로 번역한다. 독자가 Method로 계속 돌아가야 하면 실패다.
+9. Discussion은 추상적으로 압축하지 말고 무엇이 관찰됐고 어떤 해석이 약해지며 대신 어떻게 읽어야 하는지 구체적으로 쓴다.
+10. reviewer/editor가 fragmented, unclear contribution, difficult to follow, jargon, substantial restructuring을 지적하면 line edit를 중단하고 architecture부터 다시 설계한다.
+11. 방어적 정확성의 누적을 별도 위험으로 본다. claim first, boundary second를 적용한다.
+12. 게재본은 이전 버전, reviewer response, 분석 로그, 수정 전 데이터 없이도 자족적으로 이해되어야 한다.
+13. final/revised/clarified/retained/baseline/corrected 등은 내부 revision trace를 암시하는지 점검한다.
+14. 명사 더미, 하이픈 연쇄, 추상 주어를 줄이고 positive definition → example → exclusion 순서로 설명한다.
+15. Methods는 비전문 동료가 원고만 읽고 표본구성·코딩·핵심분류를 설명할 수 있어야 한다.
+16. Reviewer의 지적 방향은 수용하되 제안 문장이 자료 범위를 넘는지 별도로 검증한다.
+17. 제출 전 최소 5편, 권장 8–12편의 목표/인접 저널 동종 논문과 field-normality audit를 수행한다.
+18. 분석 수, 자체 용어 수, 문장 기술성, Methods 깊이, 숫자 보고 밀도, Supplement 규모를 peer norm과 비교한다.
+19. 일반 사회과학 규범보다 subfield와 target-journal의 최근 관행을 우선한다.
+20. 동종 논문보다 현저히 복잡하면 그 복잡성이 연구질문에 필수인지 입증되지 않는 한 삭제·Supplement 이동·분리 투고를 검토한다.
+21. 최종 submission-ready 판정은 analytically correct / reader-interpretable / argument-coherent / contribution-visible / primary-secondary hierarchy aligned / field-norm aligned를 모두 통과해야 한다.
