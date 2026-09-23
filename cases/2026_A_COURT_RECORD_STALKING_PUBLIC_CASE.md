@@ -76,3 +76,24 @@
 - [ ] contribution이 classification 자체가 아니라 substantive measurement problem으로 설명되는가?
 - [ ] 이전 revision history를 전혀 몰라도 모든 문장이 이해되는가?
 - [ ] caveat가 핵심 주장보다 더 눈에 띄지 않는가?
+
+
+## Section-depth signal
+원고 본문(초록·참고문헌·표 제외)의 approximate section word count는 다음과 같았다.
+
+- Introduction: 약 833 words
+- Method: 약 1,288 words
+- Results: 약 353 words
+- Discussion: 약 553 words
+- Limitations: 약 274 words
+- Conclusion: 약 76 words
+
+핵심 신호는 전체 길이 자체보다 **Method가 본문에서 가장 큰 비중을 차지하고,
+Results/Discussion/Conclusion이 매우 압축되어 있었다는 점**이다.
+
+따라서 이 사례의 재발 방지 규칙은:
+- Methods를 더 늘리지 않는다.
+- Introduction에서는 substantive problem과 literature gap을 더 충분히 연결한다.
+- Results에서는 표 숫자 반복이 아니라 핵심 패턴을 평문으로 번역한다.
+- Discussion에서는 closest literature와의 비교, 해석, 대안적 설명, 연구·실무적 함의를 충분히 전개한다.
+- Conclusion은 contribution을 독립적으로 설명하도록 확장한다.
