@@ -33,7 +33,7 @@
 
 ## 2. Required Review Dimensions
 
-반드시 다음 7개 축을 검토한다.
+반드시 다음 8개 축을 검토한다.
 
 1. ANALYTICALLY CORRECT
 2. READER-INTERPRETABLE
@@ -42,6 +42,7 @@
 5. PRIMARY/SECONDARY HIERARCHY ALIGNED
 6. FIELD-NORM ALIGNED
 7. SECTION-DEPTH SUFFICIENT
+8. STYLE-NATURALITY / AUTHOR-VOICE ALIGNED
 
 각 축은 PASS / MINOR / MAJOR로 판단한다.
 전체 평균점수나 기계적 점수화는 하지 않는다.
@@ -268,7 +269,7 @@ A. 다음 투고 전 필수
 B. 하면 좋은 것
 C. 건드리지 말 것
 
-### 최종 7축 판정
+### 최종 8축 판정
 각각 PASS / MINOR / MAJOR.
 
 ---
@@ -281,3 +282,29 @@ C. 건드리지 말 것
 > SCI-reviewer 기준으로 첨부 원고 검토. 목표 저널 JIV.
 
 위 한 줄은 이 문서 전체를 적용하라는 뜻으로 해석한다.
+
+
+---
+
+## 10. AI-Like Style / Author-Voice Audit
+
+AI authorship를 판정하지 않는다. 대신 기계적·정형적 문체 위험을 검토한다.
+
+필수 점검:
+- 반복 sentence opener와 3–6 word phrase
+- 반복 rhetorical template
+- over-signposting
+- nominalization과 추상 주어
+- may/might/could 및 caveat 누적
+- 균일한 paragraph skeleton과 문장 rhythm
+- Abstract / Introduction / Discussion / Conclusion 사이 의미 중복
+- author baseline과의 voice drift
+- target-journal peer style과의 차이
+
+가능하면 저자의 기존 출판 논문 1–3편을 author-voice baseline으로 사용한다.
+수정 목표는 detector 회피가 아니라 자연스럽고 구체적인 사회과학 문체다.
+
+수정 순서:
+DELETE redundancy → CONCRETIZE subjects/verbs → DE-TEMPLATE rhetoric → RESTORE AUTHOR VOICE → FIELD CALIBRATION.
+
+AI-like 표현을 줄이기 위해 문법을 일부러 깨거나 임의 paraphrase를 하지 않는다.
