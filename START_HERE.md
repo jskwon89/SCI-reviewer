@@ -1,20 +1,50 @@
-# START HERE — SCI Reviewer
+# START HERE — SCI Reviewer / Author / Reviser
 
-이 저장소를 이용해 원고를 검토할 때는 사용자가 긴 지시문을 다시 작성하지 않아도 된다.
+이 저장소를 이용할 때 사용자는 긴 지시문을 다시 작성하지 않아도 된다.
 
-사용자가 다음과 같이 짧게 요청하면:
+## 작업 유형 자동 분기
 
-> SCI-reviewer 기준으로 이 원고 검토해줘. 목표 저널은 [저널명].
+### A. 작성
+사용자가 예를 들어:
+> SCI-reviewer 기준으로 이 자료로 논문 작성해줘. 목표 저널은 [저널명].
 
-아래 절차를 자동으로 수행한다.
+라고 하면:
+1. `AUTHOR_PROTOCOL.md`를 우선 적용한다.
+2. 최신 Project Knowledge + rules + author checklist를 적용한다.
+3. 목표 저널 공식 가이드와 최근 동종 논문을 확인한다.
+4. 중심 기여, 분석 위계, section depth, field norm, author voice를 설계한 뒤 작성한다.
 
-1. 이 파일과 `REVIEW_PROTOCOL.md`를 먼저 읽는다.
-2. `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.4.md`와 `rules/`의 최신 규칙을 적용한다.
-3. 첨부 원고 전체를 읽는다.
-4. 목표 저널이 있으면 공식 Author Guidelines와 최근 동종 논문을 확인한다.
-5. 원고를 분석 정확성뿐 아니라 독자 이해성, 논리 구조, 기여 가시성, 분석 위계, field norm, section depth 관점에서 검토한다.
-6. 과잉 재분석·과잉 검증·불필요한 Supplement 확대를 기본 해법으로 사용하지 않는다.
-7. 실제 문제 없는 부분은 유지라고 명시한다.
-8. 최종 보고는 blocker / high-priority / keep-as-is / section-depth / field benchmark / revision priority로 정리한다.
+### B. 수정 / 리비전
+사용자가 예를 들어:
+> SCI-reviewer 기준으로 이 원고 수정해줘.
+또는
+> 거절메일 반영해서 다음 투고용으로 고쳐줘.
 
-이 저장소의 목적은 사용자가 매번 세부 규칙을 다시 입력하지 않아도 동일한 검수 기준이 자동으로 재사용되게 하는 것이다.
+라고 하면:
+1. `REVISION_PROTOCOL.md`를 우선 적용한다.
+2. 원고와 reviewer/editor comment를 구분해 읽는다.
+3. 구조 문제인지 문장 문제인지 먼저 분류한다.
+4. 과잉 재분석, revision-trace contamination, 방어적 caveat 누적을 막는다.
+5. 수정 후 clean-reader / author-voice / field-norm 검수를 한다.
+
+### C. 독립 검토
+사용자가 예를 들어:
+> SCI-reviewer 기준으로 이 원고 검토해줘.
+
+라고 하면:
+1. `REVIEW_PROTOCOL.md`를 우선 적용한다.
+2. 독립 reviewer/editor 관점으로 검토한다.
+3. 실제 blocker / high-priority / keep-as-is를 구분한다.
+
+## 공통 규칙
+
+모든 작업에서:
+- 최신 `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v*.md`
+- `rules/`
+- 관련 `checklists/`
+- 필요시 `cases/`
+를 함께 적용한다.
+
+목표 저널 규정이 일반 규칙과 충돌하면 공식 저널 지침을 우선한다.
+
+사용자가 짧게 지시했다는 이유로 프로토콜을 생략하지 않는다.
