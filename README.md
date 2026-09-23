@@ -1,6 +1,6 @@
 # SCI-reviewer
 
-> **새 검수 대화에서는 가장 먼저 [`START_HERE.md`](START_HERE.md)를 읽는다. 사용자는 긴 검수 지시를 반복할 필요가 없다.**
+> **새 작성·수정·검수 대화에서는 가장 먼저 [`START_HERE.md`](START_HERE.md)를 읽는다. 사용자는 긴 지시를 반복할 필요가 없다.**
 
 SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적으로 지적한 실패 패턴을 일반화하여 보존하는 연구 글쓰기·리비전 QA 규칙 저장소입니다.
 
@@ -21,9 +21,11 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 ## 권위 순서
 
 1. `START_HERE.md`
-2. `REVIEW_PROTOCOL.md`
-3. `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.4.md`
-4. `rules/00_CORE_REVIEWER_RULES.md`
+2. `AUTHOR_PROTOCOL.md`
+3. `REVISION_PROTOCOL.md`
+4. `REVIEW_PROTOCOL.md`
+5. `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.6.md`
+6. `rules/00_CORE_REVIEWER_RULES.md`
 5. `rules/01_ARGUMENT_ARCHITECTURE.md`
 6. `rules/02_READER_FIRST_TERMINOLOGY.md`
 7. `rules/03_METHODS_CLARITY_AND_REPLICABILITY.md`
@@ -58,4 +60,4 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 
 이 저장소는 Public입니다. 따라서 미출판 원고 전문, 비공개 reviewer/editor correspondence, 계정정보 또는 개인정보가 포함된 원문은 커밋하지 않습니다. 실제 사례는 `cases/`에 일반화된 public-safe case record로 보존합니다. 원문이 필요한 검수에서는 사용자가 제공한 private Project/Conversation source를 별도로 대조합니다.
 
-Version: v0.5
+Version: v0.6
