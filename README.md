@@ -31,14 +31,16 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 9. `rules/05_DEFENSIVE_WRITING_AND_REVISION_TRACE.md`
 10. `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md`
 11. `rules/07_SECTION_DEPTH_AND_WORD_BUDGET.md`
-12. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
-13. `checklists/NAIVE_READER_TEST.md`
-14. `checklists/FIELD_BENCHMARK_AUDIT.md`
-15. `cases/CASE_INDEX.md`
+12. `rules/08_AI_STYLE_AND_AUTHOR_VOICE.md`
+13. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
+14. `checklists/NAIVE_READER_TEST.md`
+15. `checklists/FIELD_BENCHMARK_AUDIT.md`
+16. `checklists/AI_STYLE_AUDIT.md`
+17. `cases/CASE_INDEX.md`
 
 ## 최종 제출 판정
 
-다음 6개 항목을 모두 통과해야 `submission-ready`로 판정합니다.
+다음 7개 항목을 모두 통과해야 `submission-ready`로 판정합니다.
 
 - ANALYTICALLY CORRECT
 - READER-INTERPRETABLE
@@ -46,6 +48,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 - CONTRIBUTION-VISIBLE
 - PRIMARY/SECONDARY HIERARCHY ALIGNED
 - FIELD-NORM ALIGNED
+- STYLE-NATURALITY / AUTHOR-VOICE ALIGNED
 
 ## Publication-context independence
 
@@ -55,4 +58,4 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 
 이 저장소는 Public입니다. 따라서 미출판 원고 전문, 비공개 reviewer/editor correspondence, 계정정보 또는 개인정보가 포함된 원문은 커밋하지 않습니다. 실제 사례는 `cases/`에 일반화된 public-safe case record로 보존합니다. 원문이 필요한 검수에서는 사용자가 제공한 private Project/Conversation source를 별도로 대조합니다.
 
-Version: v0.4.1
+Version: v0.5
