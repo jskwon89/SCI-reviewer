@@ -49,3 +49,23 @@ Supplement/Appendix에만 있는 분석이 formal hypothesis를 갖고 있으면
 - [ ] formal H/RQ 각각에 main-text table/figure가 대응하는가?
 - [ ] Introduction의 각 이론은 primary RQ/H에 직접 필요하나?
 - [ ] revision 전 구조의 잔재가 남아 있지 않은가?
+
+
+## Section-depth signal
+원고 본문(초록·참고문헌·표 제외)의 approximate section word count는 다음과 같았다.
+
+- Introduction: 약 1,506 words
+- Method: 약 1,150 words
+- Results: 약 832 words
+- Discussion: 약 1,164 words
+- Limitations: 약 173 words
+- Conclusion: 약 118 words
+
+이 사례는 단순히 Introduction/Discussion이 짧아서 실패한 것은 아니다.
+오히려 약 5천 words의 본문 안에 여러 이론축과 secondary analyses를 동시에 넣어
+각 논리 연결이 충분히 전개되지 못한 것이 더 중요했다.
+
+따라서:
+- 무조건 7–8천 words로 늘리지 않는다.
+- secondary theory/analyses를 줄여 확보한 공간을 primary argument의 conceptual bridge와 Discussion depth에 재배분한다.
+- Conclusion은 더 길게 쓸 수 있지만, exploratory findings를 다시 나열하는 대신 primary contribution을 압축한다.
