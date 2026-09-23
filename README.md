@@ -16,33 +16,46 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 - 짧게 쓰려다 실제 의미가 사라지는 과도한 압축
 - reviewer 대응용 caveat·내부 검수 흔적이 publication-facing prose에 누적되는 문제
 - 동종 사회과학 논문보다 분석·용어·보충분석이 과도하게 복잡해지는 문제
+- AI-like 반복·정형문체와 author-voice drift
 - reviewer가 구조 문제를 지적했는데 문장 교정만 반복하는 문제
 
-## 권위 순서
+## 작업 진입점
 
 1. `START_HERE.md`
-2. `AUTHOR_PROTOCOL.md`
-3. `REVISION_PROTOCOL.md`
-4. `REVIEW_PROTOCOL.md`
-5. `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.6.md`
-6. `rules/00_CORE_REVIEWER_RULES.md`
-5. `rules/01_ARGUMENT_ARCHITECTURE.md`
-6. `rules/02_READER_FIRST_TERMINOLOGY.md`
-7. `rules/03_METHODS_CLARITY_AND_REPLICABILITY.md`
-8. `rules/04_ANALYSIS_HIERARCHY.md`
-9. `rules/05_DEFENSIVE_WRITING_AND_REVISION_TRACE.md`
-10. `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md`
-11. `rules/07_SECTION_DEPTH_AND_WORD_BUDGET.md`
-12. `rules/08_AI_STYLE_AND_AUTHOR_VOICE.md`
-13. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
-14. `checklists/NAIVE_READER_TEST.md`
-15. `checklists/FIELD_BENCHMARK_AUDIT.md`
-16. `checklists/AI_STYLE_AUDIT.md`
-17. `cases/CASE_INDEX.md`
+2. 작성: `AUTHOR_PROTOCOL.md`
+3. 수정/R&R: `REVISION_PROTOCOL.md`
+4. 독립검토: `REVIEW_PROTOCOL.md`
+5. 최신 공통지식: `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.6.md`
+
+## 세부 규칙
+
+1. `rules/00_CORE_REVIEWER_RULES.md`
+2. `rules/01_ARGUMENT_ARCHITECTURE.md`
+3. `rules/02_READER_FIRST_TERMINOLOGY.md`
+4. `rules/03_METHODS_CLARITY_AND_REPLICABILITY.md`
+5. `rules/04_ANALYSIS_HIERARCHY.md`
+6. `rules/05_DEFENSIVE_WRITING_AND_REVISION_TRACE.md`
+7. `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md`
+8. `rules/07_SECTION_DEPTH_AND_WORD_BUDGET.md`
+9. `rules/08_AI_STYLE_AND_AUTHOR_VOICE.md`
+
+## 체크리스트
+
+1. `checklists/AUTHOR_DRAFTING_CHECKLIST.md`
+2. `checklists/REVISION_IMPLEMENTATION_CHECKLIST.md`
+3. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
+4. `checklists/NAIVE_READER_TEST.md`
+5. `checklists/FIELD_BENCHMARK_AUDIT.md`
+6. `checklists/AI_STYLE_AUDIT.md`
+
+## 사례
+
+- `cases/CASE_INDEX.md`
+- 실제 원문은 public repo에 두지 않고 필요시 private Project/Conversation source와 대조
 
 ## 최종 제출 판정
 
-다음 7개 항목을 모두 통과해야 `submission-ready`로 판정합니다.
+다음 8개 항목을 모두 통과해야 `submission-ready`로 판정합니다.
 
 - ANALYTICALLY CORRECT
 - READER-INTERPRETABLE
@@ -50,6 +63,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 - CONTRIBUTION-VISIBLE
 - PRIMARY/SECONDARY HIERARCHY ALIGNED
 - FIELD-NORM ALIGNED
+- SECTION-DEPTH SUFFICIENT
 - STYLE-NATURALITY / AUTHOR-VOICE ALIGNED
 
 ## Publication-context independence
