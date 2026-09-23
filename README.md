@@ -25,10 +25,11 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 5. `rules/04_ANALYSIS_HIERARCHY.md`
 6. `rules/05_DEFENSIVE_WRITING_AND_REVISION_TRACE.md`
 7. `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md`
-8. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
-9. `checklists/NAIVE_READER_TEST.md`
-10. `checklists/FIELD_BENCHMARK_AUDIT.md`
-11. `cases/CASE_INDEX.md`
+8. `rules/07_SECTION_DEPTH_AND_WORD_BUDGET.md`
+9. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
+10. `checklists/NAIVE_READER_TEST.md`
+11. `checklists/FIELD_BENCHMARK_AUDIT.md`
+12. `cases/CASE_INDEX.md`
 
 ## 최종 제출 판정
 
@@ -49,4 +50,4 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 
 이 저장소는 Public입니다. 따라서 미출판 원고 전문, 비공개 reviewer/editor correspondence, 계정정보 또는 개인정보가 포함된 원문은 커밋하지 않습니다. 실제 사례는 `cases/`에 일반화된 public-safe case record로 보존합니다. 원문이 필요한 검수에서는 사용자가 제공한 private Project/Conversation source를 별도로 대조합니다.
 
-Version: v0.3.1
+Version: v0.4
