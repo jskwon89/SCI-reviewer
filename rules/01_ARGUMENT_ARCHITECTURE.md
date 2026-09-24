@@ -17,6 +17,7 @@ Problem / Known evidence / Unresolved gap / Mechanism-theory / Why current desig
 
 ## 5. 이론을 많이 넣는 것이 이론적 기여는 아니다
 primary RQ/H를 직접 만들어내는 이론만 본문 중심에 둔다.
+관련 이론을 짧게 이름만 제시하는 것도 기여가 아니다. 개념이 어떤 관계를 예상하게 하고 관찰된 결과의 의미를 어떻게 읽게 하는지 설명한다. 새 이론축을 늘리지 않고도 기존 이론의 설명과 적용 조건을 깊이 전개할 수 있다.
 
 ## 6. Introduction 끝에서는 main analysis가 예상 가능해야 한다
 Study aim/RQ/H를 읽고 독자가 어떤 표·모형이 핵심인지 대략 예측할 수 있어야 한다.

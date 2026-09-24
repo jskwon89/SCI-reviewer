@@ -193,6 +193,8 @@ does not necessarily, should not be interpreted as 등이 한 문단에 누적�
 - 과도한 meta prose
 - 결과 반복
 
+같은 결과가 새로운 문헌 비교·설명·기여·활용 논의를 뒷받침하는 경우는 단순 반복과 구분한다. 문체를 자연스럽게 만든다는 이유로 그 설명 기능을 삭제하지 않는다.
+
 ### Pass 2 — Concretize
 추상 주어를 실제 대상으로 바꾼다.
 
@@ -216,6 +218,7 @@ does not necessarily, should not be interpreted as 등이 한 문단에 누적�
 ### Pass 5 — Field calibration
 최근 목표 저널 논문과 비교하여
 문장 밀도와 section rhythm이 지나치게 이질적이지 않은지 확인한다.
+별도 문헌 수집이 필요한지는 사용자 작업 범위에 따른다. 기존 원고의 이론·해석·함의를 풍부하게 전개하는 일을 정해진 수의 비교 논문 수집으로 대체하지 않는다.
 
 ---
 
@@ -266,4 +269,3 @@ AI-like style을 줄인다는 이유로:
 
 최종 교정에서는 `rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`와
 `checklists/PUBLICATION_PROSE_CLEAN_PASS.md`를 함께 적용한다.
-

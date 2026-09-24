@@ -47,8 +47,14 @@
 - 관련 `checklists/`
 - `rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`
 - `checklists/PUBLICATION_PROSE_CLEAN_PASS.md`
+- `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`
+- `checklists/EXPLANATORY_DEPTH_AND_USEFULNESS.md`
 - 필요시 `cases/`
 를 함께 적용한다.
+
+논리적 타당성과 간결함에 그치지 않고 근거가 허용하는 설명의 깊이와 활용 가능성을 발전시킨다. Prose clean pass는 중복·방어문을 줄이는 동시에 이론 설명, 문헌 대조, 해석과 함의를 보존하고 발전시키는 편집이다. 관찰된 근거·추론·제안을 구분하며, 깊이 보강을 이유로 새 분석이나 정해진 수의 문헌 수집을 자동 요구하지 않는다.
+
+사용자가 정한 작업 범위와 분량을 우선한다. 제한된 문체 수정 요청을 별도 benchmark나 반복 검수 작업으로 확대하지 않는다.
 
 목표 저널 규정이 일반 규칙과 충돌하면 공식 저널 지침을 우선한다.
 

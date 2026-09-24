@@ -10,6 +10,7 @@ Reviewer 대응 과정에서 생긴 caveat는 하나씩 보면 타당해도 누�
 - reviewer에게 답하기 위한 문장이 일반 독자에게는 왜 필요한지 설명되지 않음
 
 원칙: claim first, boundary second.
+이 원칙은 해석과 함의를 짧게 끝내라는 뜻이 아니다. 필요한 경계를 명확히 한 뒤 문헌 대조, 가능한 설명, 연구·현장 함의를 발전시킨다. 반복 방어와 실질적 설명을 구분한다.
 
 ## 2. Caveat budget을 둔다
 한 개념에 대한 동일한 방어 문구는 주된 정의 위치에서 한 번 충분히 설명한다. 이후에는 짧은 참조만 사용한다.
@@ -60,4 +61,3 @@ final, revised, retained, corrected, baseline, current, previous, original, vali
 를 구체적으로 제시한다.
 
 "방어적이다", "내부 검수 문구가 있다"는 인상평만으로 끝내지 않는다.
-

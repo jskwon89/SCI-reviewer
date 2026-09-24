@@ -1,4 +1,4 @@
-# SCI Author — Canonical Drafting Protocol v0.7
+# SCI Author — Canonical Drafting Protocol v0.8
 
 ## 0. Trigger
 
@@ -35,8 +35,8 @@
 6. **Terminology plan**  
    자체 용어를 최소화하고, 꼭 필요한 용어는 평문 설명 후 도입한다.
 
-7. **Word budget / depth target**  
-   peer article의 section 비중을 참고해 분량을 설계한다. 고정 7–8천 단어를 목표로 하지 않는다.
+7. **Explanatory depth / usefulness**
+   이론·개념, 결과 해석, 문헌 대조, 기여와 활용 가능성을 어떻게 발전시킬지 설계한다. 임의의 단어 수·절 비율·최소 충족선으로 설명을 제한하지 않는다. 실제 저널 제한과 사용자 범위는 지킨다.
 
 ---
 
@@ -50,6 +50,8 @@
 4. 그 gap이 왜 중요한가
 5. 현재 연구가 어떤 판단을 가능하게 하는가
 6. RQ/H
+
+이론과 개념은 이름을 소개하는 데 그치지 않고 어떤 관계를 예상하게 하며 현재 측정·분석과 어떻게 연결되는지 설명한다. 독자가 결과를 해석할 기반을 마련하되 연구질문과 무관한 이론축을 늘리지 않는다.
 
 금지:
 - literature 나열만 하고 연결 논리를 생략
@@ -101,13 +103,15 @@ Results는 표를 읽어주는 절이 아니다.
 
 Discussion이 짧아질 때 가장 먼저 literature comparison과 substantive interpretation이 빠지는지 확인한다.
 
+논리적으로 맞는 결과 요약에서 멈추지 않는다. `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`에 따라 결과의 의미, 가까운 문헌과 다른 이유, 가능한 설명과 대안, 기존 지식에서 달라지는 점을 풍부하게 발전시킨다. 후속 연구의 질문·측정·설계와 현장·지역사회의 판단에 무엇을 제안할 수 있는지 구체화한다. 관찰된 근거, 이론적 추론, 적용 제안은 구분하며 문단마다 동일한 설명 틀을 강제하지 않는다.
+
 ---
 
 ## 6. Conclusion 작성 규칙
 
 Conclusion은 abstract의 마지막 문장 복사가 아니다.
 
-최소 기능:
+전개할 기능:
 - 연구가 해결한 문제
 - 가장 중요한 empirical answer
 - 기존 지식/측정/실무에서 달라지는 점
@@ -162,6 +166,7 @@ Conclusion은 abstract의 마지막 문장 복사가 아니다.
 - final/revised/current/baseline 같은 단어는 blacklist로 삭제하지 않고 문맥상 revision trace인지 판단한다.
 
 문체 문제를 고칠 때 의미·수치·인용·분석 범위를 바꾸지 않는다.
+중복을 줄이면서 개념 설명, 추론의 연결 고리, 문헌 대조, 예시, 함의를 삭제하지 않았는지 확인한다. 압축 때문에 결과의 의미나 활용을 독자가 메워야 한다면 설명을 복원하거나 발전시킨다.
 
 ---
 
@@ -173,7 +178,7 @@ Conclusion은 abstract의 마지막 문장 복사가 아니다.
 - section alignment
 - primary/secondary hierarchy
 - reader-first terminology
-- section depth
+- explanatory depth / usefulness
 - author voice
 - field norm
 - publication-context independence

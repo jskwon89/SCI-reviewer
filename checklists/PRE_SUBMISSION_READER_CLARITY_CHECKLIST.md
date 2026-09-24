@@ -40,6 +40,8 @@
 - [ ] 추상문장 뒤에 실제 대상과 조건이 나온다.
 - [ ] 방법론 내부 용어가 implication 문단까지 남지 않는다.
 - [ ] 자료가 지지하지 않는 behavioral/causal 의미를 붙이지 않는다.
+- [ ] 이론·개념과 가까운 문헌을 활용해 결과의 의미, 가능한 설명, 기여와 연구·현장 함의를 풍부하게 전개했다.
+- [ ] 관찰된 근거·추론·제안을 구분하며 연구자·실무자·일반 독자가 결과의 의미와 활용 가능성을 이해할 수 있다.
 
 ## Defensive-writing / revision-trace
 - [ ] 핵심 주장보다 caveat가 더 길지 않다.
@@ -58,16 +60,19 @@
 - [ ] 동일 opener·transition·claim→caveat→implication 구조가 반복적으로 나타나지 않는다.
 - [ ] revision/QA 경고어를 기계적으로 삭제하지 않고 문맥상 자족성으로 판단했다.
 - [ ] 문체 문제를 지적할 때 실제 문장·위치와 DELETE/SHORTEN/MOVE/REWRITE 조치를 제시했다.
+- [ ] 삭제·축약이 개념 설명·추론 연결·문헌 대조·예시·함의를 약화시키지 않았다.
 
 ## Field norm
-- [ ] 최소 5편의 동종 peer paper와 비교했다.
+- [ ] 저널 적합성 비교가 작업 범위에 포함된 경우 현재 판단에 도움이 되는 동종 peer paper와 대조했다.
 - [ ] 분석 수·용어 수·Methods 깊이·Supplement 규모가 목표 저널 관행과 크게 어긋나지 않는다.
 
 
-## Section depth / word budget
+## Explanatory depth / usefulness
 - [ ] 전체 분량이 peer set보다 짧다면, 그 이유가 중복 제거이지 conceptual omission이 아닌지 확인했다.
 - [ ] Introduction이 problem → known evidence → gap → importance → present study를 충분히 연결한다.
 - [ ] Results가 table callout 수준으로 끝나지 않고 핵심 패턴을 평문으로 해석한다.
 - [ ] Discussion이 closest literature 비교, alternative explanation, boundary condition, implication을 필요한 만큼 다룬다.
 - [ ] 별도 Conclusion이 있다면 2–4문장 결과 반복으로 끝나지 않고 contribution을 독립적으로 압축한다.
 - [ ] 분량을 늘리기 위해 새 분석·새 이론·새 robustness를 추가하지 않았다.
+- [ ] 임의의 단어 수·절 비율·문단 수·최소 충족선으로 설명을 제한하지 않았다.
+- [ ] 단순한 기능 충족을 넘어 근거가 허용하는 해석과 활용의 깊이를 발전시켰다.

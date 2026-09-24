@@ -1,4 +1,4 @@
-# SCI Reviser — Canonical Revision Protocol v0.7
+# SCI Reviser — Canonical Revision Protocol v0.8
 
 ## 0. Trigger
 
@@ -124,7 +124,7 @@ claim
 
 ---
 
-## 7. Section-depth redistribution
+## 7. Explanatory-depth development
 
 Revision에서 단순히 문장을 추가하지 않는다.
 
@@ -133,7 +133,9 @@ Revision에서 단순히 문장을 추가하지 않는다.
 - 확보한 공간을 conceptual bridge와 Discussion interpretation에 재배분
 한다.
 
-Methods가 이미 과도하면 더 늘리지 않는다.
+공간을 확보한 만큼만 설명을 보강한다는 뜻은 아니다. `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`에 따라 이론·개념, 결과 해석, 문헌 대조, 기여와 연구·현장 함의를 근거가 허용하는 깊이까지 발전시킨다. 논리적으로 맞지만 설명이 덜 발전된 문단도 수정 대상이다.
+
+임의의 단어 수·절 비율·최소 충족선을 적용하지 않는다. Methods의 내부 검수 설명이 논증을 밀어내지 않게 하되 재현성과 이해에 필요한 설명은 보존한다. 관찰된 근거·추론·제안을 구분하고 새 분석을 깊이의 대용물로 삼지 않는다.
 
 ---
 
@@ -187,6 +189,7 @@ revision history contamination 가능성을 우선 의심한다.
 DELETE redundancy/meta prose → CONCRETIZE subjects/results → DE-TEMPLATE rhetoric → DE-CONTAMINATE revision/QA history → BOUNDARY CHECK → AUTHOR VOICE/FIELD CALIBRATION.
 
 이 pass에서 새 theory·새 robustness·새 분석을 방어 목적으로 추가하지 않는다.
+DELETE는 설명의 실체까지 삭제하라는 뜻이 아니다. 개념 설명·문헌 대조·추론 연결·구체적 함의가 약해졌다면 복원하거나 더 명확하게 전개한다.
 
 ---
 
@@ -198,11 +201,11 @@ DELETE redundancy/meta prose → CONCRETIZE subjects/results → DE-TEMPLATE rhe
 - terminology consistency
 - no revision trace
 - no excessive caveat
-- section depth
+- explanatory depth / usefulness
 - field norm
 - author voice
 - publication-prose clean pass
 - numeric/reference consistency
 를 확인한다.
 
-실제 문제가 없는 부분은 더 건드리지 않는다.
+이미 명료하고 해석과 함의가 풍부한 부분은 유지한다. 오류가 없다는 이유만으로 덜 발전된 설명을 완성된 것으로 판단하지 않는다.

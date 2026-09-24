@@ -5,7 +5,7 @@
 - Topic/subfield:
 - Design/data type:
 - Methods:
-- Comparison papers (5–12):
+- Comparison papers selected for the current question and authorized scope:
 
 ## A. Structure comparison
 | Item | Manuscript | Peer median/range | Judgment |

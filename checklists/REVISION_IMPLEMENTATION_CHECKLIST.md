@@ -27,6 +27,8 @@
 - [ ] 불필요한 분석/이론을 줄이고 필요한 conceptual bridge를 보강했다.
 - [ ] Method가 이미 길다면 더 늘리지 않았다.
 - [ ] Discussion과 Conclusion의 substantive depth를 확인했다.
+- [ ] 오류가 없는 요약에 머무르지 않고 이론·개념, 문헌 대조, 해석·기여·연구 및 현장 함의를 근거에 맞게 발전시켰다.
+- [ ] 관찰된 근거·추론·제안의 구분을 유지했고, 임의의 분량이나 최소 충족선으로 설명을 제한하지 않았다.
 
 ## Publication-prose clean pass
 - [ ] reviewer response와 이전 버전을 닫고 현재 manuscript만 다시 읽었다.
@@ -35,8 +37,9 @@
 - [ ] 추상 주어·nominalization이 실제 대상과 결과를 숨기지 않는다.
 - [ ] 동일 opener·transition·claim→caveat→implication 구조가 반복되지 않는다.
 - [ ] final/revised/current/baseline 등은 문맥상 revision trace인지로 판정했다.
+- [ ] 반복을 삭제한 뒤 개념 설명·추론 연결·예시·함의가 약해졌다면 복원하거나 더 명확하게 전개했다.
 
 ## Final
 - [ ] 이전 버전을 모르는 독자가 현재 원고만으로 이해할 수 있다.
 - [ ] publication-prose clean pass를 통과한다.
-- [ ] 실제 blocker가 아닌 부분은 더 건드리지 않았다.
+- [ ] 이미 풍부하고 명료한 부분은 유지하며, blocker 여부와 별개로 설명이 덜 발전된 부분은 보강했다.

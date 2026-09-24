@@ -5,7 +5,7 @@
 - [ ] primary RQ/H와 main analysis를 정했다.
 - [ ] secondary/exploratory boundary를 정했다.
 - [ ] 목표 저널 recent peer papers를 확인했다.
-- [ ] section별 기능과 대략적 word budget을 정했다.
+- [ ] section별 기능과 발전시킬 이론·해석·기여·활용의 질문을 정했다.
 - [ ] author-voice baseline이 있으면 확보했다.
 
 ## During Introduction
@@ -30,6 +30,7 @@
 - [ ] 가능한 설명과 alternative explanation을 구분했다.
 - [ ] 자료가 허용하지 않는 해석을 넘지 않았다.
 - [ ] theory/measurement/practice implication 중 실제 필요한 것을 충분히 설명했다.
+- [ ] 관찰된 근거·추론·제안을 구분하면서 결과의 의미, 문헌과의 관계, 연구·현장 활용 가능성을 풍부하게 발전시켰다.
 
 ## Style
 - [ ] sentence opener 반복을 점검했다.
@@ -44,9 +45,10 @@
 - [ ] 추상 주어의 실제 변수·집단·결과가 즉시 보인다.
 - [ ] 동일 rhetorical template가 문단마다 반복되지 않는다.
 - [ ] revision/QA 경고어를 blacklist가 아니라 문맥으로 판정했다.
+- [ ] 중복을 줄이면서 개념 설명·추론 연결·문헌 대조·예시·함의를 삭제하지 않았다.
 
 ## Completion
-- [ ] field norm과 section depth가 적절하다.
+- [ ] 근거가 허용하는 설명의 깊이와 유용성을 발전시켰으며 임의의 분량이나 최소 충족선으로 제한하지 않았다.
 - [ ] publication-context independence를 통과한다.
 - [ ] publication-prose clean pass를 통과한다.
 - [ ] 더 복잡하게 만드는 것보다 더 명확하게 만드는 것을 우선했다.

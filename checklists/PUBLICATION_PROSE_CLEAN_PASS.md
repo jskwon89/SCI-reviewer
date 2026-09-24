@@ -1,6 +1,7 @@
 # Publication-Prose Clean Pass Checklist
 
 제출 직전 manuscript를 이전 버전·reviewer response·분석 로그를 보지 않은 독자처럼 다시 읽는다.
+`EXPLANATORY_DEPTH_AND_USEFULNESS.md`를 함께 적용하되 별도 분석·문헌 수집·반복 검수를 자동 요구하지 않는다.
 
 ## Sentence purpose
 - [ ] 각 문장이 현재 연구 자체를 설명한다.
@@ -45,6 +46,8 @@
 - [ ] 단어 빈도만으로 AI-like/방어적 문체를 단정하지 않았다.
 
 ## Final gate
+- [ ] 삭제·축약 후에도 이론·개념 설명, 추론 연결, 문헌 대조, 예시, 기여와 함의가 보존·발전되었다.
+- [ ] 관찰된 근거·추론·제안의 차이를 유지하면서 결과의 의미와 활용을 풍부하게 설명했다.
 - [ ] 원고가 response letter나 analysis memo가 아니라 하나의 완성된 논문처럼 읽힌다.
 - [ ] 정확성은 유지하면서도 과도하게 방어적·추상적·기계적이지 않다.
 - [ ] 수정 후 의미·수치·인용·분석 범위가 바뀌지 않았다.

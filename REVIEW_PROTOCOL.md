@@ -1,4 +1,4 @@
-# SCI Reviewer — Canonical Review Protocol v0.5
+# SCI Reviewer — Canonical Review Protocol v0.8
 
 ## 0. Trigger
 
@@ -41,7 +41,7 @@
 4. CONTRIBUTION-VISIBLE
 5. PRIMARY/SECONDARY HIERARCHY ALIGNED
 6. FIELD-NORM ALIGNED
-7. SECTION-DEPTH SUFFICIENT
+7. EXPLANATORY-DEPTH / USEFULNESS DEVELOPED
 8. STYLE-NATURALITY / AUTHOR-VOICE ALIGNED
 
 각 축은 PASS / MINOR / MAJOR로 판단한다.
@@ -117,18 +117,20 @@ Supplement/Appendix 분석이 formal hypothesis와 본문 중심을 차지하면
 ### 3.7 Results and Discussion translation
 Results는 표 수치 재독이 아니라 핵심 패턴을 평문으로 전달해야 한다.
 
-Discussion은 최소한 다음 층을 검토한다.
+Discussion은 다음 층을 연구에 맞게 풍부하게 연결했는지 검토한다.
 1. What was found?
 2. Closest literature와 어떻게 같은가/다른가?
 3. 가능한 설명 또는 alternative explanation은 무엇인가?
 4. 데이터가 허용하지 않는 해석은 무엇인가?
 5. theory / measurement / research design / practice에서 무엇이 달라지는가?
 
+`rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`에 따라 이론·개념이 실제 결과를 읽는 도구가 되었는지, 기존 지식과의 관계 및 기여가 발전되었는지, 연구자·실무자·일반 독자가 의미와 활용 가능성을 회수할 수 있는지 판단한다. 논리적 오류가 없고 문장이 간결하다는 것만으로 이 축을 통과시키지 않는다. 관찰된 근거·추론·제안의 차이와 각 해석의 근거를 확인한다.
+
 ---
 
-## 4. Section-Depth and Word-Budget Audit
+## 4. Explanatory-Depth and Usefulness Review
 
-반드시 main text 전체와 가능한 범위에서 다음 section의 approximate word count를 계산한다.
+전체 논증과 다음 절의 설명 기능을 검토한다. Word count는 필요한 경우 설명의 편중을 찾는 보조 지표로만 사용한다.
 
 - Introduction
 - Method
@@ -137,10 +139,9 @@ Discussion은 최소한 다음 층을 검토한다.
 - Limitations
 - Conclusion
 
-고정 7,000–8,000 word quota를 적용하지 않는다.
+임의의 단어 수 상한·하한, 절별 비율, 문단 수, 최소 충족선을 적용하지 않는다. 실제 저널 제한과 사용자 범위는 지킨다.
 
 대신:
-- peer set보다 20–30% 이상 짧은가?
 - Method만 비정상적으로 큰가?
 - Introduction의 conceptual bridge가 빠졌는가?
 - Results가 table callout 수준인가?
@@ -148,6 +149,7 @@ Discussion은 최소한 다음 층을 검토한다.
 - Conclusion이 abstract 마지막 문장 반복 수준인가?
 
 짧은 이유가 설명 생략인지, 좋은 간결함인지 구분한다.
+길거나 논리적으로 타당한 원고도 결과의 의미와 활용이 덜 발전되어 있을 수 있다. 분량이 아니라 실제 설명 가치를 판단한다.
 
 분량을 늘릴 때 우선 보강:
 - gap construction
@@ -166,10 +168,12 @@ Discussion은 최소한 다음 층을 검토한다.
 
 ## 5. Field-Norm / Target-Journal Benchmark
 
-목표 저널이 있으면 반드시:
+저널 적합성까지 검토하는 작업에서는:
 1. 공식 Author Guidelines 확인
-2. 최근 3–5년 동종 empirical article 최소 5편, 가능하면 8–12편 비교
+2. 현재 원고의 판단에 도움이 되는 최근 동종 empirical article 비교
 3. 주제만 아니라 design / data type / methods / contribution type이 유사한 논문 우선
+
+편수 채우기가 목적이 아니다. 사용자가 제한된 문체·설명 수정만 요청한 경우 별도 benchmark를 자동 시작하지 않는다. 설명에 필요한 구체적 주장·인용의 확인은 그 주장에 맞춰 수행한다.
 
 비교:
 - main-text length
@@ -219,7 +223,7 @@ outline과 argument architecture부터 재검토한다.
 - 내부 audit detail의 본문 노출
 - 분량을 채우기 위한 새 이론/새 분석 추가
 
-실제 문제가 없는 부분은 `유지`라고 명시한다.
+이미 명료하고 해석과 함의가 풍부한 부분은 `유지`라고 명시한다. 논리적 오류가 없다는 이유로 덜 발전된 설명을 그대로 두지 않는다.
 
 ---
 
@@ -260,11 +264,11 @@ outline과 argument architecture부터 재검토한다.
 ### 7. Discussion / Conclusion
 해석·문헌대조·함의·과도한 압축 여부.
 
-### 8. 분량 진단
-section별 word count와 보강 필요 기능.
+### 8. 설명의 깊이와 활용 가능성
+이론·개념, 문헌 대조, 해석, 기여, 연구·현장 함의의 발전 정도와 구체적 보강 방향. Word count는 필요할 때만 보조 정보로 제시한다.
 
 ### 9. Field benchmark
-동종 논문 대비 분석 복잡도, 용어, Methods 깊이, 표/그림, Discussion 수준.
+작업 범위에 포함된 경우 동종 논문 대비 분석 복잡도, 용어, Methods 깊이, 표/그림, Discussion 수준. 수행하지 않은 비교를 완료했다고 표시하지 않는다.
 
 ### 10. 최종 수정 우선순위
 A. 다음 투고 전 필수
@@ -344,3 +348,5 @@ DEFENSIVE / ABSTRACT / TEMPLATE / REVISION-TRACE / INTERNAL-QA를 MINOR 또는 M
 final / revised / retained / corrected / baseline / current / previous / original / validation / audit는 경고어이지 자동 금지어가 아니다.
 primary analysis, sensitivity analysis, final analytic sample, current study 등은 문맥상 자족적이면 정상적인 학술표현으로 유지한다.
 
+### 11.7 Preserve explanatory substance
+중복·방어문을 삭제한 뒤 이론·개념 설명, 추론 연결, 문헌 대조, 예시, 기여와 함의가 약해지지 않았는지 확인한다. 설명이 생략되었다면 복원·확장·재작성한다. 이 확인은 clean pass에 통합하며 새 분석이나 반복 검수 절차를 자동으로 시작하지 않는다.
