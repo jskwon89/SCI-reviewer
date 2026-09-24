@@ -34,6 +34,14 @@
 - [ ] 평소보다 지나치게 추상적·장황·방어적이지 않다.
 - [ ] 저자가 평소 쓰지 않는 공식적 transition phrase가 대량으로 등장하지 않는다.
 
+## Publication-prose contamination
+- [ ] 연구 자체가 아니라 수정·검증·방어 과정을 설명하는 meta prose가 남아 있지 않다.
+- [ ] "during revision", "to address this concern", "retained specification" 같은 표현을 문맥상 점검했다.
+- [ ] 추상 주어가 실제 변수·집단·결과를 숨기지 않는다.
+- [ ] 단어 빈도만으로 DEFENSIVE / ABSTRACT / TEMPLATE 문제를 판정하지 않았다.
+- [ ] 문제가 있다면 실제 문장 또는 위치와 구체적 수정안을 제시했다.
+- [ ] final/revised/current/baseline 등은 blacklist가 아니라 문맥상 revision trace인지로 판정했다.
+
 ## Field norm
 - [ ] 목표 저널 recent papers와 문장 밀도·transition·Discussion voice가 크게 어긋나지 않는다.
 
