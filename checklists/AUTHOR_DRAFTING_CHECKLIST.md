@@ -38,7 +38,15 @@
 - [ ] 모든 문단이 같은 구조로 반복되지 않는다.
 - [ ] 저자의 기존 published voice와 크게 벗어나지 않는다.
 
+## Publication-prose clean pass
+- [ ] 문장이 연구 자체가 아니라 작성·검수 과정을 설명하지 않는다.
+- [ ] claim 뒤에는 필요한 boundary만 남겼다.
+- [ ] 추상 주어의 실제 변수·집단·결과가 즉시 보인다.
+- [ ] 동일 rhetorical template가 문단마다 반복되지 않는다.
+- [ ] revision/QA 경고어를 blacklist가 아니라 문맥으로 판정했다.
+
 ## Completion
 - [ ] field norm과 section depth가 적절하다.
 - [ ] publication-context independence를 통과한다.
+- [ ] publication-prose clean pass를 통과한다.
 - [ ] 더 복잡하게 만드는 것보다 더 명확하게 만드는 것을 우선했다.
