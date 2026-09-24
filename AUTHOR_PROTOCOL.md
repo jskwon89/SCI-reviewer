@@ -1,4 +1,4 @@
-# SCI Author — Canonical Drafting Protocol v0.6
+# SCI Author — Canonical Drafting Protocol v0.7
 
 ## 0. Trigger
 
@@ -149,7 +149,23 @@ Conclusion은 abstract의 마지막 문장 복사가 아니다.
 
 ---
 
-## 9. Draft Completion Gate
+## 9. Publication-Prose Clean Pass
+
+초안이 완성되면 `rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`와
+`checklists/PUBLICATION_PROSE_CLEAN_PASS.md`를 적용한다.
+
+특히:
+- 연구 자체가 아니라 작성·검수 과정을 설명하는 meta prose를 제거한다.
+- claim 뒤에는 필요한 boundary만 한 번 남긴다.
+- 추상 주어를 실제 변수·집단·비교·결과로 구체화한다.
+- 동일 opener/transition/claim→caveat→implication 구조가 반복되면 문단 기능에 맞게 다시 쓴다.
+- final/revised/current/baseline 같은 단어는 blacklist로 삭제하지 않고 문맥상 revision trace인지 판단한다.
+
+문체 문제를 고칠 때 의미·수치·인용·분석 범위를 바꾸지 않는다.
+
+---
+
+## 10. Draft Completion Gate
 
 초안 완성 전 반드시 확인:
 
@@ -161,5 +177,6 @@ Conclusion은 abstract의 마지막 문장 복사가 아니다.
 - author voice
 - field norm
 - publication-context independence
+- publication-prose clean pass
 
 하나라도 MAJOR이면 문장 polishing보다 구조 수정을 먼저 한다.
