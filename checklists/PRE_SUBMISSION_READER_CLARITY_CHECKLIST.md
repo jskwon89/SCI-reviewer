@@ -51,6 +51,14 @@
 - [ ] 추상 주어의 실제 대상이 명확하다.
 - [ ] 비전문 동료가 Methods 핵심 절차를 원고만 읽고 설명할 수 있다.
 
+## Publication-prose clean pass
+- [ ] 각 문장이 현재 연구 자체를 설명하며 작성·수정·검수 과정을 설명하는 meta prose가 남아 있지 않다.
+- [ ] 필요한 설계·측정·인과성 boundary와 reviewer 선제 방어 문장을 구분했다.
+- [ ] this pattern / this distinction / these findings 같은 추상 주어의 실제 대상이 즉시 명확하다.
+- [ ] 동일 opener·transition·claim→caveat→implication 구조가 반복적으로 나타나지 않는다.
+- [ ] revision/QA 경고어를 기계적으로 삭제하지 않고 문맥상 자족성으로 판단했다.
+- [ ] 문체 문제를 지적할 때 실제 문장·위치와 DELETE/SHORTEN/MOVE/REWRITE 조치를 제시했다.
+
 ## Field norm
 - [ ] 최소 5편의 동종 peer paper와 비교했다.
 - [ ] 분석 수·용어 수·Methods 깊이·Supplement 규모가 목표 저널 관행과 크게 어긋나지 않는다.

@@ -15,6 +15,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 - 개념·용어를 설명하기 전에 사용하는 문제
 - 짧게 쓰려다 실제 의미가 사라지는 과도한 압축
 - reviewer 대응용 caveat·내부 검수 흔적이 publication-facing prose에 누적되는 문제
+- 추상 주어·명사화와 반복 rhetorical template 때문에 원고가 방어적·기계적으로 읽히는 문제
 - 동종 사회과학 논문보다 분석·용어·보충분석이 과도하게 복잡해지는 문제
 - AI-like 반복·정형문체와 author-voice drift
 - reviewer가 구조 문제를 지적했는데 문장 교정만 반복하는 문제
@@ -25,7 +26,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 2. 작성: `AUTHOR_PROTOCOL.md`
 3. 수정/R&R: `REVISION_PROTOCOL.md`
 4. 독립검토: `REVIEW_PROTOCOL.md`
-5. 최신 공통지식: `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.6.md`
+5. 최신 공통지식: `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.7.md`
 
 ## 세부 규칙
 
@@ -38,6 +39,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 7. `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md`
 8. `rules/07_SECTION_DEPTH_AND_WORD_BUDGET.md`
 9. `rules/08_AI_STYLE_AND_AUTHOR_VOICE.md`
+10. `rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`
 
 ## 체크리스트
 
@@ -47,6 +49,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 4. `checklists/NAIVE_READER_TEST.md`
 5. `checklists/FIELD_BENCHMARK_AUDIT.md`
 6. `checklists/AI_STYLE_AUDIT.md`
+7. `checklists/PUBLICATION_PROSE_CLEAN_PASS.md`
 
 ## 사례
 
@@ -74,4 +77,4 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 
 이 저장소는 Public입니다. 따라서 미출판 원고 전문, 비공개 reviewer/editor correspondence, 계정정보 또는 개인정보가 포함된 원문은 커밋하지 않습니다. 실제 사례는 `cases/`에 일반화된 public-safe case record로 보존합니다. 원문이 필요한 검수에서는 사용자가 제공한 private Project/Conversation source를 별도로 대조합니다.
 
-Version: v0.6
+Version: v0.7

@@ -1,4 +1,4 @@
-# SCI Reviewer — Canonical Review Protocol v0.4
+# SCI Reviewer — Canonical Review Protocol v0.5
 
 ## 0. Trigger
 
@@ -243,11 +243,13 @@ outline과 argument architecture부터 재검토한다.
 ### 3. High-priority improvements
 중요하지만 blocker는 아닌 것.
 
-### 4. 용어/문장 문제
+### 4. 용어/문장·publication-prose 문제
 실제 문장을 근거로:
-- 왜 어렵게 읽히는지
+- DEFENSIVE / ABSTRACT / TEMPLATE / REVISION-TRACE / INTERNAL-QA 중 무엇인지
+- 왜 어렵거나 response-letter-like하게 읽히는지
 - 어떤 내부 맥락을 전제하는지
-- 평문으로 어떻게 바꿀지
+- DELETE / SHORTEN / MOVE / REWRITE 중 무엇이 필요한지
+- 가능하면 publication-facing 대체문
 
 ### 5. Introduction / Theory / RQ
 문단별 유지 / 이동 / 삭제 / 확장 / 연결강화.
@@ -308,3 +310,37 @@ AI authorship를 판정하지 않는다. 대신 기계적·정형적 문체 위�
 DELETE redundancy → CONCRETIZE subjects/verbs → DE-TEMPLATE rhetoric → RESTORE AUTHOR VOICE → FIELD CALIBRATION.
 
 AI-like 표현을 줄이기 위해 문법을 일부러 깨거나 임의 paraphrase를 하지 않는다.
+
+---
+
+## 11. Mandatory Publication-Prose Clean Pass
+
+독립검토의 마지막 단계에서 `rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`와
+`checklists/PUBLICATION_PROSE_CLEAN_PASS.md`를 반드시 적용한다.
+
+### 11.1 Sentence-purpose test
+각 문장이 현재 연구 자체를 설명하는지, 아니면 저자가 무엇을 수정·검증·방어했는지를 설명하는지 구분한다.
+후자라면 publication-facing manuscript에서 삭제·이동·재작성할 후보로 본다.
+
+### 11.2 Necessary boundary vs pre-emptive defense
+모든 caveat를 줄이는 것이 목적이 아니다.
+없으면 설계·측정·인과성·일반화 가능성을 실질적으로 오해할 boundary는 유지한다.
+반면 reviewer 반론을 하나씩 예상해 부정하는 문장, 같은 한계의 반복, 중심 주장보다 긴 부정형 설명은 줄인다.
+
+### 11.3 Concrete-language test
+this pattern / this distinction / these findings / interpretation 같은 추상 주어가 실제 변수·집단·비교·결과를 숨기는지 확인한다.
+독자가 선행사를 찾기 위해 앞 문장으로 되돌아가야 한다면 구체적 대상을 복원한다.
+
+### 11.4 Mechanical-template test
+동일 opener, transition, 3항 병렬, claim→caveat→implication 문단골격이 반복되는지 본다.
+특정 단어의 빈도만으로 AI-like/기계적 문체를 판정하지 않는다.
+
+### 11.5 Evidence requirement
+DEFENSIVE / ABSTRACT / TEMPLATE / REVISION-TRACE / INTERNAL-QA를 MINOR 또는 MAJOR로 판정한다면,
+가능한 범위에서 대표 실제 문장 또는 위치를 제시하고 구체적 수정 조치를 제안한다.
+인상평이나 빈도 집계만으로 판정을 끝내지 않는다.
+
+### 11.6 No blacklist rule
+final / revised / retained / corrected / baseline / current / previous / original / validation / audit는 경고어이지 자동 금지어가 아니다.
+primary analysis, sensitivity analysis, final analytic sample, current study 등은 문맥상 자족적이면 정상적인 학술표현으로 유지한다.
+

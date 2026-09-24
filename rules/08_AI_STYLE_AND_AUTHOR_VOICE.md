@@ -247,3 +247,23 @@ AI-like style을 줄인다는 이유로:
 - FIELD-STYLE MISALIGNMENT
 
 한 항목이 MAJOR이면 line editing 전에 해당 section의 구조를 먼저 점검한다.
+
+---
+
+## 7. Publication-prose contamination을 별도로 점검한다
+
+기계적 문체 검수는 sentence opener 빈도나 hedge 수를 세는 데서 끝나지 않는다.
+
+특히 다음을 별도 확인한다.
+- reviewer comment에 답하려고 삽입한 문장이 본문에서 맥락 없이 튀는가
+- "during revision", "to address this concern", "we additionally checked"처럼 수정 행위 자체가 주어가 되는가
+- 추상 주어가 실제 변수·집단·결과를 숨기는가
+- 모든 문단이 claim → caveat → implication의 같은 골격으로 정리되어 있는가
+- 동의어만 바꿔 같은 rhetorical template를 반복하는가
+
+판정은 반드시 실제 문장·문단과 연결한다.
+단순 빈도는 이상치 탐색용일 뿐, DEFENSIVE / ABSTRACT / TEMPLATE 판정의 충분조건이 아니다.
+
+최종 교정에서는 `rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`와
+`checklists/PUBLICATION_PROSE_CLEAN_PASS.md`를 함께 적용한다.
+

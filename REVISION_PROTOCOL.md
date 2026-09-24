@@ -1,4 +1,4 @@
-# SCI Reviser — Canonical Revision Protocol v0.6
+# SCI Reviser — Canonical Revision Protocol v0.7
 
 ## 0. Trigger
 
@@ -171,7 +171,26 @@ revision history contamination 가능성을 우선 의심한다.
 
 ---
 
-## 10. Final revision gate
+## 10. Publication-Prose Clean Pass
+
+수정이 끝난 뒤 reviewer response와 이전 버전을 닫고 현재 manuscript만 다시 읽는다.
+`rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`와 `checklists/PUBLICATION_PROSE_CLEAN_PASS.md`를 적용한다.
+
+반드시 다음을 확인한다.
+- 문장이 연구 자체가 아니라 수정·검증 행위를 설명하지 않는가
+- 필요한 boundary와 reviewer 선제 방어를 구분했는가
+- 추상 주어가 실제 변수·집단·결과를 숨기지 않는가
+- 동일한 rhetorical template가 여러 문단에 반복되지 않는가
+- revision/QA 경고어를 기계적으로 삭제하지 않고 문맥으로 판정했는가
+
+수정 순서:
+DELETE redundancy/meta prose → CONCRETIZE subjects/results → DE-TEMPLATE rhetoric → DE-CONTAMINATE revision/QA history → BOUNDARY CHECK → AUTHOR VOICE/FIELD CALIBRATION.
+
+이 pass에서 새 theory·새 robustness·새 분석을 방어 목적으로 추가하지 않는다.
+
+---
+
+## 11. Final revision gate
 
 제출 전:
 - reviewer comment 대응 여부
@@ -182,6 +201,7 @@ revision history contamination 가능성을 우선 의심한다.
 - section depth
 - field norm
 - author voice
+- publication-prose clean pass
 - numeric/reference consistency
 를 확인한다.
 

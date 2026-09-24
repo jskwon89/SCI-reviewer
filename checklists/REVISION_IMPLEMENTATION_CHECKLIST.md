@@ -28,6 +28,15 @@
 - [ ] Method가 이미 길다면 더 늘리지 않았다.
 - [ ] Discussion과 Conclusion의 substantive depth를 확인했다.
 
+## Publication-prose clean pass
+- [ ] reviewer response와 이전 버전을 닫고 현재 manuscript만 다시 읽었다.
+- [ ] 수정·검증 행위를 설명하는 meta prose를 제거했다.
+- [ ] 필요한 boundary와 선제 방어 caveat를 구분했다.
+- [ ] 추상 주어·nominalization이 실제 대상과 결과를 숨기지 않는다.
+- [ ] 동일 opener·transition·claim→caveat→implication 구조가 반복되지 않는다.
+- [ ] final/revised/current/baseline 등은 문맥상 revision trace인지로 판정했다.
+
 ## Final
 - [ ] 이전 버전을 모르는 독자가 현재 원고만으로 이해할 수 있다.
+- [ ] publication-prose clean pass를 통과한다.
 - [ ] 실제 blocker가 아닌 부분은 더 건드리지 않았다.
