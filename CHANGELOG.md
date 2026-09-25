@@ -1,5 +1,11 @@
 # Changelog
 
+## Submission-document rules — 2026-09-26
+- Defined concise title-page and cover-letter scope, excluding unnecessary internal QA, defensive explanations, and repeated declarations.
+- Prohibited unapproved promises to share code/materials, deposit in repositories, or provide data upon request; secondary-data statements identify the original provider and actual access conditions.
+- Added a factual AI-use template for submission-file preparation/checking, English translation, and language editing, without automatically expanding the declared role to drafting manuscript content.
+- Linked `rules/11_SUBMISSION_DOCUMENTS_AND_DECLARATIONS.md` from the common entry point and rule index.
+
 ## v0.8 — 2026-09-24
 - Added explanatory depth and usefulness as a positive authoring, revision, and review objective beyond logical validity and concise prose.
 - Required theory and concept explanations, direct literature comparisons, interpretation, contribution, and research/community implications to develop the warranted meaning and use of findings.

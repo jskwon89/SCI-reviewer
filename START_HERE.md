@@ -49,6 +49,7 @@
 - `checklists/PUBLICATION_PROSE_CLEAN_PASS.md`
 - `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`
 - `checklists/EXPLANATORY_DEPTH_AND_USEFULNESS.md`
+- 제출 부속문서·선언문 작업 시 `rules/11_SUBMISSION_DOCUMENTS_AND_DECLARATIONS.md`
 - 필요시 `cases/`
 를 함께 적용한다.
 
