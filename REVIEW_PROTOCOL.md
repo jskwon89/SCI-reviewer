@@ -1,4 +1,4 @@
-# SCI Reviewer — Canonical Review Protocol v0.8
+# SCI Reviewer — Canonical Review Protocol v0.9
 
 ## 0. Trigger
 
@@ -350,3 +350,9 @@ primary analysis, sensitivity analysis, final analytic sample, current study 등
 
 ### 11.7 Preserve explanatory substance
 중복·방어문을 삭제한 뒤 이론·개념 설명, 추론 연결, 문헌 대조, 예시, 기여와 함의가 약해지지 않았는지 확인한다. 설명이 생략되었다면 복원·확장·재작성한다. 이 확인은 clean pass에 통합하며 새 분석이나 반복 검수 절차를 자동으로 시작하지 않는다.
+
+## 필수 설명 완성도 판정 (v0.9)
+
+`rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md` 8절을 적용한다. 전체 작성·내용 보완·전체 검토에서는 먼저 중요한 설명 과제와 근거를 식별하고, 완료 시 최종 원고 위치와 실제로 완성된 추론을 제시한다. 항목 언급·문장 추가·수치 검증만으로 깊이를 PASS 처리하지 않는다. 승인된 내용 보완 범위의 중요한 설명 생략은 해결하고, 확인 불가·범위 밖은 구분한다.
+
+목표 저널 적합성을 판단할 때는 `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md` 6절에 따라 실제 전문 비교 범위와 결론을 맞춘다. 분량 목표로 완성을 대체하지 않는다. 제한 교정이나 R&R 범위를 자동 확대하지 않는다.

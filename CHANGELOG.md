@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.9 — 2026-10-06
+- Made explanatory-depth planning and evidence-based completion mandatory for full drafting, substantive revision, and whole-manuscript review.
+- Required manuscript locations and completed reasoning, rather than mentions, additions, or successful numeric checks, to support depth judgments.
+- Separated analytical correctness, explanatory development, and journal alignment; unresolved substantive gaps cannot receive a depth PASS.
+- Required peer-comparison claims to match actual full-text access and comparable counting scope; prohibited journal-average claims from small examples and length-based completion decisions.
+- Preserved scope limits and stopping rules: no fixed word targets, new analyses, paper quotas, or repeated review loops.
+- Routed the gate through START_HERE, all three protocols, relevant checklists, README, and Core v0.9; retained earlier Core versions as history.
+
 ## Submission-document rules — 2026-09-26
 - Defined concise title-page and cover-letter scope, excluding unnecessary internal QA, defensive explanations, and repeated declarations.
 - Prohibited unapproved promises to share code/materials, deposit in repositories, or provide data upon request; secondary-data statements identify the original provider and actual access conditions.

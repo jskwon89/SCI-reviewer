@@ -27,7 +27,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 2. 작성: `AUTHOR_PROTOCOL.md`
 3. 수정/R&R: `REVISION_PROTOCOL.md`
 4. 독립검토: `REVIEW_PROTOCOL.md`
-5. 최신 공통지식: `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.8.md`
+5. 최신 공통지식: `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.9.md`
 
 ## 세부 규칙
 
@@ -85,4 +85,8 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 
 이 저장소는 Public입니다. 따라서 미출판 원고 전문, 비공개 reviewer/editor correspondence, 계정정보 또는 개인정보가 포함된 원문은 커밋하지 않습니다. 실제 사례는 `cases/`에 일반화된 public-safe case record로 보존합니다. 원문이 필요한 검수에서는 사용자가 제공한 private Project/Conversation source를 별도로 대조합니다.
 
-Version: v0.8
+Version: v0.9
+
+## v0.9: 설명 완성도의 증거
+
+전체 작성·내용 보완·전체 검토에서는 설명 과제를 먼저 정하고 최종 원고의 실제 위치와 완성된 추론으로 충족 여부를 판단합니다. 이론·문헌·함의를 언급하거나 수치를 검증했다는 사실만으로 설명 깊이를 PASS 처리하지 않습니다. 필수 실행은 `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md` 8절, 전문 비교와 판정 범위는 `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md` 6절을 따릅니다. 분량 목표·반복 검수·새 분석을 자동 요구하지 않습니다.

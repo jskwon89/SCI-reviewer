@@ -1,4 +1,4 @@
-# SCI Author — Canonical Drafting Protocol v0.8
+# SCI Author — Canonical Drafting Protocol v0.9
 
 ## 0. Trigger
 
@@ -185,3 +185,9 @@ Conclusion은 abstract의 마지막 문장 복사가 아니다.
 - publication-prose clean pass
 
 하나라도 MAJOR이면 문장 polishing보다 구조 수정을 먼저 한다.
+
+## 필수 설명 완성도 판정 (v0.9)
+
+`rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md` 8절을 적용한다. 전체 작성·내용 보완·전체 검토에서는 먼저 중요한 설명 과제와 근거를 식별하고, 완료 시 최종 원고 위치와 실제로 완성된 추론을 제시한다. 항목 언급·문장 추가·수치 검증만으로 깊이를 PASS 처리하지 않는다. 승인된 내용 보완 범위의 중요한 설명 생략은 해결하고, 확인 불가·범위 밖은 구분한다.
+
+목표 저널 적합성을 판단할 때는 `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md` 6절에 따라 실제 전문 비교 범위와 결론을 맞춘다. 분량 목표로 완성을 대체하지 않는다. 제한 교정이나 R&R 범위를 자동 확대하지 않는다.
