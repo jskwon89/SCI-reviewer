@@ -44,6 +44,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 11. `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`
 12. `rules/11_SUBMISSION_DOCUMENTS_AND_DECLARATIONS.md`
 13. `rules/12_POSITIVE_SCOPE_WRITING.md`
+14. `rules/13_CONCRETE_FINDINGS_AND_GROUNDED_INTERPRETATION.md`
 
 ## 체크리스트
 
@@ -91,3 +92,9 @@ Version: v0.9
 ## v0.9: 설명 완성도의 증거
 
 전체 작성·내용 보완·전체 검토에서는 설명 과제를 먼저 정하고 최종 원고의 실제 위치와 완성된 추론으로 충족 여부를 판단합니다. 이론·문헌·함의를 언급하거나 수치를 검증했다는 사실만으로 설명 깊이를 PASS 처리하지 않습니다. 필수 실행은 `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md` 8절, 전문 비교와 판정 범위는 `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md` 6절을 따릅니다. 분량 목표·반복 검수·새 분석을 자동 요구하지 않습니다.
+
+## 구체적 결과와 근거 있는 해석
+
+**관찰된 결과는 더 분명하게 주장하고, 가능한 설명은 근거를 붙여 발전시키며, 측정상 한계는 필요한 위치에 모은다. 핵심 결과는 실제 집단·측정·비교 방향으로 쓰고, 주변 내용은 간단히 언급하거나 제외한다.**
+
+초기 작성·수정·검토의 공통 필수 규칙은 `rules/13_CONCRETE_FINDINGS_AND_GROUNDED_INTERPRETATION.md`입니다. 기존 `AUTHOR_PROTOCOL.md`가 초기 작성을 담당하며, 별도 작성지침을 중복 관리하지 않습니다.

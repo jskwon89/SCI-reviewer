@@ -1,5 +1,12 @@
 # Changelog
 
+## Concrete findings and grounded interpretation — 2026-10-08
+- Required direct, specific statements of observed findings, evidence-grounded explanations, and functional placement of measurement limitations in initial drafting, revision, and review.
+- Added rules/13 with concrete comparison guidance, safeguards for estimands and uncertainty, importance-based development/brief mention/deletion, and manuscript-level completion criteria.
+- Strengthened the existing AUTHOR_PROTOCOL instead of creating a duplicate authoring manual; connected all three protocols, entry point, Core, README, prompts, and drafting/clean-pass checks.
+- Clarified rules/12 so essential denominators and measurement definitions remain visible, limitations are not forced into one paragraph, and necessary standalone scope labels are allowed.
+- Used only generalized writing examples; no unpublished manuscript results or confidential source text were added.
+
 ## Concrete rationale, explanatory discussion, and contextual grounding — 2026-10-07
 - Made three writing and review functions explicit in rules/10: constructing the study rationale, explaining findings in Discussion, and connecting contextual evidence to the question or interpretation.
 - Added writing guidance, evidence-based completion criteria, and recognizable omissions; linked these criteria from both protocols and the explanatory-depth checklist.

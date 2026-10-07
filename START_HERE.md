@@ -50,6 +50,7 @@
 - `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`
 - `checklists/EXPLANATORY_DEPTH_AND_USEFULNESS.md`
 - `rules/12_POSITIVE_SCOPE_WRITING.md`
+- `rules/13_CONCRETE_FINDINGS_AND_GROUNDED_INTERPRETATION.md`
 - 제출 부속문서·선언문 작업 시 `rules/11_SUBMISSION_DOCUMENTS_AND_DECLARATIONS.md`
 - 필요시 `cases/`
 를 함께 적용한다.
@@ -65,3 +66,9 @@
 ## 설명 깊이의 필수 실행·완료 관문
 
 전면 작성·내용 보완·전체 검토는 `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md` 8절을 반드시 적용한다. 작성 전 설명 과제와 근거를 정하고, 완료 판정은 최종 원고의 실제 위치와 완성된 추론에 근거한다. 항목이 들어갔다는 사실, 수정량, 수치 검증으로 깊이 PASS를 대신하지 않는다. 목표 저널 적합성 판단에는 `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md` 6절의 전문 비교 범위 규칙을 적용한다. 사용자에게 이 절차를 별도로 요청하도록 요구하지 않는다.
+
+## 초기 작성부터 적용하는 구체적 서술
+
+**관찰된 결과는 더 분명하게 주장하고, 가능한 설명은 근거를 붙여 발전시키며, 측정상 한계는 필요한 위치에 모은다. 핵심 결과는 실제 집단·측정·비교 방향으로 쓰고, 주변 내용은 간단히 언급하거나 제외한다.**
+
+새 작성지침을 별도로 복제하지 않는다. 초기 작성은 `AUTHOR_PROTOCOL.md`, 수정은 `REVISION_PROTOCOL.md`, 검토는 `REVIEW_PROTOCOL.md`로 분기하되 공통 `rules/13_CONCRETE_FINDINGS_AND_GROUNDED_INTERPRETATION.md`를 필수 적용한다. 사용자가 “SCI-reviewer 기준으로 작성해줘”라고만 해도 초안부터 이 방향을 적용한다.
