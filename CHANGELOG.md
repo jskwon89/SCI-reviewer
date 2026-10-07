@@ -1,5 +1,10 @@
 # Changelog
 
+## Concrete rationale, explanatory discussion, and contextual grounding — 2026-10-07
+- Made three writing and review functions explicit in rules/10: constructing the study rationale, explaining findings in Discussion, and connecting contextual evidence to the question or interpretation.
+- Added writing guidance, evidence-based completion criteria, and recognizable omissions; linked these criteria from both protocols and the explanatory-depth checklist.
+- Preserved scope controls: no reference quotas, fixed paragraph templates, additional analyses, or defensive prose requirements.
+
 ## Positive scope writing — 2026-10-07
 - Added `rules/12_POSITIVE_SCOPE_WRITING.md`: state the scope of findings positively (who, when, which measure) instead of negative boundary sentences, with section placement rules, conversion examples, and a post-draft search list.
 - Replaced "which interpretations do the data not allow?" in the review and authoring protocols with a positive scope question.

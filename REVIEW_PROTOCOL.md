@@ -57,6 +57,8 @@
 - 왜 그 gap이 substantive/theoretical/methodological/practical하게 중요한가?
 - Title → Abstract → Introduction → RQ/H → primary analysis → Results → Discussion → Conclusion이 같은 중심을 향하는가?
 
+`rules/10` 2.1절에 따라 서론이 기존 지식에서 남은 질문과 그 질문의 중요성까지 연결하는지 확인한다. 문헌 추가나 연구 목적 명시만으로 필요성이 구체화됐다고 판정하지 않는다.
+
 ### 3.2 Argument architecture
 - Introduction의 각 문단이 Problem / Evidence / Gap / Theory / Aim 중 하나의 역할을 갖는가?
 - 문단 간 연결이 명시적인가?
@@ -129,6 +131,8 @@ Discussion은 다음 층을 연구에 맞게 풍부하게 연결했는지 검토
 ---
 
 ## 4. Explanatory-Depth and Usefulness Review
+
+특히 세 기능을 현재 원고의 위치와 완성된 연결로 확인한다: **서론에서 연구의 필요성 구체화**, **논의에서 결과 설명**, **맥락을 통한 질문·해석 보강** (`rules/10` 2.1, 3.1, 3.2절). 문헌 편수나 추가 분량으로 충족을 판정하지 않는다. 이미 기능을 수행하는 설명은 유지한다.
 
 전체 논증과 다음 절의 설명 기능을 검토한다. Word count는 필요한 경우 설명의 편중을 찾는 보조 지표로만 사용한다.
 
