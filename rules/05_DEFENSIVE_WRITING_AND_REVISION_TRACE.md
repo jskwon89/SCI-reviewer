@@ -25,7 +25,7 @@ audit, reconciliation, final lock, write-back, harmonization, correction step, b
 finalized, clarified rules, revised classification, retained specification, current selected file, corrected denominator 등의 대비대상이 독자에게 불명확하면 다시 쓴다.
 
 ## 6. positive definition을 exclusion보다 우선한다
-실제 무엇인지 먼저 설명하고 예시를 준 뒤 필요한 제외규칙을 붙인다.
+실제 무엇인지 먼저 설명하고 예시를 준 뒤 필요한 제외규칙을 붙인다. 결과의 범위도 같은 방식으로 대상·시점·측정을 직접 써서 정한다 (`rules/12_POSITIVE_SCOPE_WRITING.md`).
 
 ## 7. 말로 설명 테스트를 통과해야 한다
 Methods 핵심 절차를 비전문 동료에게 2분 안에 구두로 설명해 본다. 구두 표현이 더 명확하면 논문을 그쪽으로 다시 쓴다.

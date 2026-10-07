@@ -1,5 +1,11 @@
 # Changelog
 
+## Positive scope writing — 2026-10-07
+- Added `rules/12_POSITIVE_SCOPE_WRITING.md`: state the scope of findings positively (who, when, which measure) instead of negative boundary sentences, with section placement rules, conversion examples, and a post-draft search list.
+- Replaced "which interpretations do the data not allow?" in the review and authoring protocols with a positive scope question.
+- Rewrote the boundary column in `rules/10` section 4 as sentence-strength guidance so it is not copied into manuscripts as negation.
+- Linked the rule from START_HERE, README, rules/05, and the drafting and clean-pass checklists.
+
 ## v0.9 — 2026-10-06
 - Made explanatory-depth planning and evidence-based completion mandatory for full drafting, substantive revision, and whole-manuscript review.
 - Required manuscript locations and completed reasoning, rather than mentions, additions, or successful numeric checks, to support depth judgments.

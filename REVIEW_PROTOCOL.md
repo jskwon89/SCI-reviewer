@@ -121,7 +121,7 @@ Discussion은 다음 층을 연구에 맞게 풍부하게 연결했는지 검토
 1. What was found?
 2. Closest literature와 어떻게 같은가/다른가?
 3. 가능한 설명 또는 alternative explanation은 무엇인가?
-4. 데이터가 허용하지 않는 해석은 무엇인가?
+4. 결과가 적용되는 대상·시점·측정 범위는 어디이며, 그 범위가 긍정문으로 한 곳에 쓰여 있는가? (`rules/12`)
 5. theory / measurement / research design / practice에서 무엇이 달라지는가?
 
 `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`에 따라 이론·개념이 실제 결과를 읽는 도구가 되었는지, 기존 지식과의 관계 및 기여가 발전되었는지, 연구자·실무자·일반 독자가 의미와 활용 가능성을 회수할 수 있는지 판단한다. 논리적 오류가 없고 문장이 간결하다는 것만으로 이 축을 통과시키지 않는다. 관찰된 근거·추론·제안의 차이와 각 해석의 근거를 확인한다.

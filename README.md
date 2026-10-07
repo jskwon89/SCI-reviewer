@@ -43,6 +43,7 @@ SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적�
 10. `rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`
 11. `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`
 12. `rules/11_SUBMISSION_DOCUMENTS_AND_DECLARATIONS.md`
+13. `rules/12_POSITIVE_SCOPE_WRITING.md`
 
 ## 체크리스트
 

@@ -14,6 +14,8 @@
 - [ ] 같은 제한을 여러 section에서 반복하지 않는다.
 - [ ] reviewer가 제기할 법한 모든 반론을 선제적으로 막으려 하지 않는다.
 - [ ] 필요한 설계·측정·인과성 한계는 삭제하지 않았다.
+- [ ] `rules/12` 5절의 부정형 표현을 검색하고, 각 문장을 긍정형 범위 서술·삭제·Limitations 이동 중 하나로 처리했다.
+- [ ] Introduction과 Results에 경계문이 없다.
 
 ## Concreteness
 - [ ] this pattern / this distinction / these findings 같은 추상 주어의 실제 대상이 즉시 보인다.

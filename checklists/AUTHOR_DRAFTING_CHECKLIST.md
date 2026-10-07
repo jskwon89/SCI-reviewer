@@ -28,7 +28,7 @@
 ## During Discussion
 - [ ] closest literature와 직접 비교했다.
 - [ ] 가능한 설명과 alternative explanation을 구분했다.
-- [ ] 자료가 허용하지 않는 해석을 넘지 않았다.
+- [ ] 각 해석의 강도가 관찰·해석·제안 층위와 맞고, 결과의 범위를 긍정문으로 한 곳에 썼다.
 - [ ] theory/measurement/practice implication 중 실제 필요한 것을 충분히 설명했다.
 - [ ] 관찰된 근거·추론·제안을 구분하면서 결과의 의미, 문헌과의 관계, 연구·현장 활용 가능성을 풍부하게 발전시켰다.
 

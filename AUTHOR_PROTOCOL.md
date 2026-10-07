@@ -98,7 +98,7 @@ Results는 표를 읽어주는 절이 아니다.
 1. What was found?
 2. Closest literature와 어떻게 같은가/다른가?
 3. 가능한 설명 또는 alternative explanation은 무엇인가?
-4. 어떤 해석은 데이터가 허용하지 않는가?
+4. 결과가 적용되는 대상·시점·측정 범위를 긍정문으로 어디에 한 번 쓰는가? (`rules/12`)
 5. theory / measurement / research design / practice에서 무엇이 달라지는가?
 
 Discussion이 짧아질 때 가장 먼저 literature comparison과 substantive interpretation이 빠지는지 확인한다.
