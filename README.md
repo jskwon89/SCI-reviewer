@@ -1,20 +1,19 @@
-# SCI-reviewer — 핵심 규칙 v1.0
+# SCI-reviewer — 기준본 v2.0
 
-논문 작성·편집·검증을 위한 규칙. **많은 지침을 모두 적용하는 방식에서, 하나의 핵심 기준과 해당 작업 절차만 적용하는 방식으로 정리했다.**
+논문 작성·리뷰·R&R 대응을 위한 규칙. **현행 규칙과 절차는 [START_HERE.md](START_HERE.md) 한 파일에 모두 들어 있다.** 이 파일만 읽으면 작업할 수 있다.
 
 ## 시작
 
-[START_HERE.md](START_HERE.md) → [CORE_RULES.md](CORE_RULES.md) → 작업별 프로토콜 하나.
-
-| 문서 | 역할 |
+| START_HERE.md의 절 | 역할 |
 |---|---|
-| [CORE_RULES.md](CORE_RULES.md) | 유일한 현행 공통 의무. 기본 틀·양식, 문체, 근거·해석, 파일 편집, 완료 관문 |
-| [AUTHOR_PROTOCOL.md](AUTHOR_PROTOCOL.md) | 초기 작성·내용 보완 |
-| [REVISION_PROTOCOL.md](REVISION_PROTOCOL.md) | 심사의견(R&R) 대응. 심사의견 없는 편집 포함 |
-| [REVIEW_PROTOCOL.md](REVIEW_PROTOCOL.md) | 투고 전 자체 리뷰·최종검수 |
-| [AGENTS.md](AGENTS.md) | 지원하는 작업 도구의 자동 진입점 |
+| A. 핵심 규칙 | 유일한 현행 공통 의무. 금지 사항, 기본 틀·양식, 문체, 근거·해석, 파일 편집, 완료 관문 |
+| B. 초기 작성 절차 | 초기 작성·내용 보완 |
+| C. 투고 전 자체 리뷰·검증 절차 | 리뷰·최종검수 |
+| D. R&R 대응 절차 | 심사의견 대응. 심사의견 없는 편집 포함 |
 
-**내부 작업문구, 기능 없는 반복, 기계적 문단 틀, 불필요한 과잉 방어는 원고에 남기지 않는다.** 동시에 필요한 측정 정의·불확실성·연구한계·설명 깊이는 보존한다. 위반이나 미확인을 숨기고 완료라고 보고하지 않는다.
+`CORE_RULES.md`, `AUTHOR_PROTOCOL.md`, `REVIEW_PROTOCOL.md`, `REVISION_PROTOCOL.md`는 과거 링크 유지를 위한 안내 파일이며 규칙을 담고 있지 않다. [AGENTS.md](AGENTS.md)는 지원하는 작업 도구의 자동 진입점이다.
+
+**내부 작업문구, 이전 작업의 잔여물, 기능 없는 반복, 기계적 문단 틀, 불필요한 과잉 방어는 원고에 남기지 않는다.** 동시에 필요한 측정 정의·불확실성·연구한계·설명 깊이는 보존한다. 위반이나 미확인을 숨기고 완료라고 보고하지 않는다.
 
 ## 적용 방법
 
@@ -38,6 +37,6 @@ python -m unittest discover -s tests -v
 - [문헌 전문 비교 및 통합 근거](sources/CORE_RULES_EVIDENCE.md)
 - [공개 자료 정책](sources/PUBLIC_SOURCE_POLICY.md)
 - [변경 기록](CHANGELOG.md)
-- `rules/`, `checklists/`, `PROJECT_KNOWLEDGE_*`, `cases/`: 필요할 때 찾아보는 과거 상세 자료. 전체 필수 적용 아님. 충돌 시 핵심 규칙 우선.
+- `rules/`, `checklists/`, `PROJECT_KNOWLEDGE_*`, `cases/`: 필요할 때 찾아보는 과거 상세 자료. 전체 필수 적용 아님. 충돌 시 START_HERE.md 우선.
 
 v0.9의 구체적인 결과 서술·근거 있는 해석·설명 깊이 원칙은 유지했다. 반복 검수·문헌 수 할당·모든 문서 재독·장문 완료보고를 필수 절차로 만들지 않는다.
