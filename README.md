@@ -1,100 +1,43 @@
-# SCI-reviewer
+# SCI-reviewer — 핵심 규칙 v1.0
 
-> **새 작성·수정·검수 대화에서는 가장 먼저 [`START_HERE.md`](START_HERE.md)를 읽는다. 사용자는 긴 지시를 반복할 필요가 없다.**
+논문 작성·편집·검증을 위한 규칙. **많은 지침을 모두 적용하는 방식에서, 하나의 핵심 기준과 해당 작업 절차만 적용하는 방식으로 정리했다.**
 
-SSCI/SCI 원고 작성·수정 과정에서 실제 reviewer/editor가 반복적으로 지적한 실패 패턴을 일반화하여 보존하는 연구 글쓰기·리비전 QA 규칙 저장소입니다.
+## 시작
 
-## 목적
+[START_HERE.md](START_HERE.md) → [CORE_RULES.md](CORE_RULES.md) → 작업별 프로토콜 하나.
 
-특정 논문의 reviewer comment를 그대로 축적하는 것이 아니라, 다른 원고에서도 반복될 수 있는 실패를 사전에 차단합니다.
+| 문서 | 역할 |
+|---|---|
+| [CORE_RULES.md](CORE_RULES.md) | 유일한 현행 공통 의무. 기본 틀·양식, 문체, 근거·해석, 파일 편집, 완료 관문 |
+| [AUTHOR_PROTOCOL.md](AUTHOR_PROTOCOL.md) | 초기 작성·내용 보완 |
+| [REVISION_PROTOCOL.md](REVISION_PROTOCOL.md) | 원고 편집·리비전 |
+| [REVIEW_PROTOCOL.md](REVIEW_PROTOCOL.md) | 검토·최종검수 |
+| [AGENTS.md](AGENTS.md) | 지원하는 작업 도구의 자동 진입점 |
 
-- 중심 기여가 분석 방법의 새로움에만 머무는 문제
-- 제목·초록·이론·RQ/H·방법·결과·논의가 서로 다른 중심을 갖는 문제
-- primary / secondary / exploratory 분석의 위계가 글의 위계와 불일치하는 문제
-- 저자에게는 정확하지만 외부 독자에게는 해석 불가능한 내부 분석언어
-- 개념·용어를 설명하기 전에 사용하는 문제
-- 짧게 쓰려다 실제 의미가 사라지는 과도한 압축
-- 논리와 간결함은 갖췄으나 이론 설명·결과 해석·문헌 대조·기여와 활용 가능성이 덜 발전된 문제
-- reviewer 대응용 caveat·내부 검수 흔적이 publication-facing prose에 누적되는 문제
-- 추상 주어·명사화와 반복 rhetorical template 때문에 원고가 방어적·기계적으로 읽히는 문제
-- 동종 사회과학 논문보다 분석·용어·보충분석이 과도하게 복잡해지는 문제
-- AI-like 반복·정형문체와 author-voice drift
-- reviewer가 구조 문제를 지적했는데 문장 교정만 반복하는 문제
+**내부 작업문구, 기능 없는 반복, 기계적 문단 틀, 불필요한 과잉 방어는 원고에 남기지 않는다.** 동시에 필요한 측정 정의·불확실성·연구한계·설명 깊이는 보존한다. 위반이나 미확인을 숨기고 완료라고 보고하지 않는다.
 
-## 작업 진입점
+## 적용 방법
 
-1. `START_HERE.md`
-2. 작성: `AUTHOR_PROTOCOL.md`
-3. 수정/R&R: `REVISION_PROTOCOL.md`
-4. 독립검토: `REVIEW_PROTOCOL.md`
-5. 최신 공통지식: `PROJECT_KNOWLEDGE_SCI_REVIEWER_CORE_v0.9.md`
+> https://github.com/jskwon89/SCI-reviewer 의 START_HERE.md 기준으로 첨부 원고를 수정해줘.
 
-## 세부 규칙
+수정 표시, 특정 절, 목표 저널처럼 작업 조건만 덧붙이면 된다. 규칙 링크를 열지 못한 도구는 자동 적용됐다고 가정할 수 없다. 규칙 문서만으로 모든 AI의 무위반 동작을 보장하지 않으므로 실제 문장·근거·파일의 완료 관문을 사용한다.
 
-1. `rules/00_CORE_REVIEWER_RULES.md`
-2. `rules/01_ARGUMENT_ARCHITECTURE.md`
-3. `rules/02_READER_FIRST_TERMINOLOGY.md`
-4. `rules/03_METHODS_CLARITY_AND_REPLICABILITY.md`
-5. `rules/04_ANALYSIS_HIERARCHY.md`
-6. `rules/05_DEFENSIVE_WRITING_AND_REVISION_TRACE.md`
-7. `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md`
-8. `rules/07_SECTION_DEPTH_AND_WORD_BUDGET.md`
-9. `rules/08_AI_STYLE_AND_AUTHOR_VOICE.md`
-10. `rules/09_PUBLICATION_PROSE_CLEAN_PASS.md`
-11. `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md`
-12. `rules/11_SUBMISSION_DOCUMENTS_AND_DECLARATIONS.md`
-13. `rules/12_POSITIVE_SCOPE_WRITING.md`
-14. `rules/13_CONCRETE_FINDINGS_AND_GROUNDED_INTERPRETATION.md`
+## 간단한 후보 검사
 
-## 체크리스트
+Python 3 표준 라이브러리만 사용한다. 원고를 수정하거나 업로드하지 않는다.
 
-1. `checklists/AUTHOR_DRAFTING_CHECKLIST.md`
-2. `checklists/REVISION_IMPLEMENTATION_CHECKLIST.md`
-3. `checklists/PRE_SUBMISSION_READER_CLARITY_CHECKLIST.md`
-4. `checklists/NAIVE_READER_TEST.md`
-5. `checklists/FIELD_BENCHMARK_AUDIT.md`
-6. `checklists/AI_STYLE_AUDIT.md`
-7. `checklists/PUBLICATION_PROSE_CLEAN_PASS.md`
-8. `checklists/EXPLANATORY_DEPTH_AND_USEFULNESS.md`
+```bash
+python tools/prose_check.py /path/to/manuscript.docx --single-author
+python -m unittest discover -s tests -v
+```
 
-## 사례
+입력: DOCX/TXT/MD. 결과: 내부 문구·자리표시자·반복 문장/도입구·방어문 누적·저자 문체 후보와 위치. 종료코드 `0=후보 없음`, `1=문맥 검토 필요`, `2=입력 오류`. **0도 사실·인용·논증·레이아웃 통과나 AI 판별 결과가 아니다.** 후보를 삭제할지는 원고 문맥으로 결정한다. 이미지 속 글자는 읽지 않는다. 로그에 원고 일부가 나오므로 비공개 원고를 공개 CI/커밋에 넣지 않는다.
 
-- `cases/CASE_INDEX.md`
-- 실제 원문은 public repo에 두지 않고 필요시 private Project/Conversation source와 대조
+## 참고와 이력
 
-## 최종 제출 판정
+- [문헌 전문 비교 및 통합 근거](sources/CORE_RULES_EVIDENCE.md)
+- [공개 자료 정책](sources/PUBLIC_SOURCE_POLICY.md)
+- [변경 기록](CHANGELOG.md)
+- `rules/`, `checklists/`, `PROJECT_KNOWLEDGE_*`, `cases/`: 필요할 때 찾아보는 과거 상세 자료. 전체 필수 적용 아님. 충돌 시 핵심 규칙 우선.
 
-다음 8개 항목을 모두 통과해야 `submission-ready`로 판정합니다.
-
-- ANALYTICALLY CORRECT
-- READER-INTERPRETABLE
-- ARGUMENT-COHERENT
-- CONTRIBUTION-VISIBLE
-- PRIMARY/SECONDARY HIERARCHY ALIGNED
-- FIELD-NORM ALIGNED
-- EXPLANATORY-DEPTH / USEFULNESS DEVELOPED
-- STYLE-NATURALITY / AUTHOR-VOICE ALIGNED
-
-## Publication-context independence
-
-게재본 독자는 이전 투고본, reviewer response, 분석 로그, 수정 이력, old variable name, 수정 전 denominator를 모른다고 가정합니다. 그 지식이 있어야 이해되는 문장·용어·숫자 흐름은 publication-facing 문서에서 금지합니다.
-
-## Explanatory depth and usefulness
-
-논리적 타당성과 간결함에 더해, 근거가 허용하는 이론 설명·결과 해석·문헌 대조·기여·연구 및 현장 함의를 풍부하게 발전시킵니다. 연구자, 실무자, 일반 독자가 결과의 의미와 활용 가능성을 이해할 수 있어야 합니다. 반복을 삭제할 때 설명의 실체를 함께 삭제하지 않으며, 임의의 분량 목표나 최소 충족선으로 논의를 제한하지 않습니다. 관찰된 근거, 이론적 추론, 적용 제안의 차이는 유지합니다.
-
-## Public repository source policy
-
-이 저장소는 Public입니다. 따라서 미출판 원고 전문, 비공개 reviewer/editor correspondence, 계정정보 또는 개인정보가 포함된 원문은 커밋하지 않습니다. 실제 사례는 `cases/`에 일반화된 public-safe case record로 보존합니다. 원문이 필요한 검수에서는 사용자가 제공한 private Project/Conversation source를 별도로 대조합니다.
-
-Version: v0.9
-
-## v0.9: 설명 완성도의 증거
-
-전체 작성·내용 보완·전체 검토에서는 설명 과제를 먼저 정하고 최종 원고의 실제 위치와 완성된 추론으로 충족 여부를 판단합니다. 이론·문헌·함의를 언급하거나 수치를 검증했다는 사실만으로 설명 깊이를 PASS 처리하지 않습니다. 필수 실행은 `rules/10_EXPLANATORY_DEPTH_AND_USEFULNESS.md` 8절, 전문 비교와 판정 범위는 `rules/06_FIELD_NORM_AND_PEER_BENCHMARK.md` 6절을 따릅니다. 분량 목표·반복 검수·새 분석을 자동 요구하지 않습니다.
-
-## 구체적 결과와 근거 있는 해석
-
-**관찰된 결과는 더 분명하게 주장하고, 가능한 설명은 근거를 붙여 발전시키며, 측정상 한계는 필요한 위치에 모은다. 핵심 결과는 실제 집단·측정·비교 방향으로 쓰고, 주변 내용은 간단히 언급하거나 제외한다.**
-
-초기 작성·수정·검토의 공통 필수 규칙은 `rules/13_CONCRETE_FINDINGS_AND_GROUNDED_INTERPRETATION.md`입니다. 기존 `AUTHOR_PROTOCOL.md`가 초기 작성을 담당하며, 별도 작성지침을 중복 관리하지 않습니다.
+v0.9의 구체적인 결과 서술·근거 있는 해석·설명 깊이 원칙은 유지했다. 반복 검수·문헌 수 할당·모든 문서 재독·장문 완료보고를 필수 절차로 만들지 않는다.

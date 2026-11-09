@@ -1,3 +1,5 @@
+> **v1.0 이후 참고·이력 문서입니다.** 현행 의무는 [../CORE_RULES.md](../CORE_RULES.md)에 통합되어 있습니다. 아래의 과거 ‘필수·전체 적용’ 지시는 현행 작업 범위를 확대하지 않습니다. 필요할 때 예시만 참고하세요.
+
 # 06. Field-Norm and Peer-Benchmark Audit
 
 ## 목적
