@@ -3,7 +3,7 @@
 이 저장소를 사용하는 작성·편집·검토 작업에는 `CORE_RULES.md`를 먼저 읽고 적용한다. 현행 공통 규칙은 이 파일 하나다.
 
 1. 기준 원고, 사용자 요청 범위, 목표 저널 유무를 확인한다. 이미 있는 정보를 다시 묻지 않는다.
-2. `CORE_RULES.md`와 작업에 맞는 프로토콜 하나만 읽는다: 작성 `AUTHOR_PROTOCOL.md`, 편집/R&R `REVISION_PROTOCOL.md`, 검토 `REVIEW_PROTOCOL.md`.
+2. `CORE_RULES.md`와 작업에 맞는 프로토콜 하나만 읽는다: 초기 작성 `AUTHOR_PROTOCOL.md`, 투고 전 리뷰 `REVIEW_PROTOCOL.md`, 심사의견(R&R) 대응 `REVISION_PROTOCOL.md`. 심사의견 없는 편집은 R&R 대응 절차를 쓴다.
 3. 핵심 금지와 G1–G5 완료 관문을 적용한다. 위반·미확인을 숨기고 완료라고 보고하지 않는다. 검토 요청은 문제 보고로 완료할 수 있다.
 4. `rules/`, `checklists/`, `PROJECT_KNOWLEDGE_*`, `cases/`는 참고·이력이다. 전체를 필수 재독하거나 과거의 일괄 점검 명령을 부활시키지 않는다. 현행 규칙과 충돌하면 `CORE_RULES.md`를 따른다.
 5. 파일·수치·문헌·실행 결과를 실제로 읽고 확인한 범위만 보고한다. 검증을 위해 같은 분석을 습관적으로 재실행하지 않는다.

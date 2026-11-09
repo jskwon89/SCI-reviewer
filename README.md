@@ -10,8 +10,8 @@
 |---|---|
 | [CORE_RULES.md](CORE_RULES.md) | 유일한 현행 공통 의무. 기본 틀·양식, 문체, 근거·해석, 파일 편집, 완료 관문 |
 | [AUTHOR_PROTOCOL.md](AUTHOR_PROTOCOL.md) | 초기 작성·내용 보완 |
-| [REVISION_PROTOCOL.md](REVISION_PROTOCOL.md) | 원고 편집·리비전 |
-| [REVIEW_PROTOCOL.md](REVIEW_PROTOCOL.md) | 검토·최종검수 |
+| [REVISION_PROTOCOL.md](REVISION_PROTOCOL.md) | 심사의견(R&R) 대응. 심사의견 없는 편집 포함 |
+| [REVIEW_PROTOCOL.md](REVIEW_PROTOCOL.md) | 투고 전 자체 리뷰·최종검수 |
 | [AGENTS.md](AGENTS.md) | 지원하는 작업 도구의 자동 진입점 |
 
 **내부 작업문구, 기능 없는 반복, 기계적 문단 틀, 불필요한 과잉 방어는 원고에 남기지 않는다.** 동시에 필요한 측정 정의·불확실성·연구한계·설명 깊이는 보존한다. 위반이나 미확인을 숨기고 완료라고 보고하지 않는다.
