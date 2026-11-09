@@ -1,6 +1,6 @@
 # 짧은 요청
 
-각 요청은 START_HERE.md의 A(핵심 규칙)와 해당 절차 하나를 뜻한다. 과거 rules/checklists 전체 적용을 뜻하지 않는다.
+각 요청은 START_HERE.md의 A(핵심 규칙)와 해당 절차 하나를 의무로 적용한다는 뜻이다. ‘참고해서’, ‘읽고’라고 써도 같다. 과거 rules/checklists 전체 적용을 뜻하지 않는다.
 
 - 작성: `https://github.com/jskwon89/SCI-reviewer 의 START_HERE.md 기준으로 이 자료로 논문을 작성해줘. 목표 저널은 [저널명].`
 - R&R 대응: `같은 기준으로 첨부 원고를 심사의견에 맞춰 수정해줘. 바뀐 부분은 빨간색으로 표시해줘.`
